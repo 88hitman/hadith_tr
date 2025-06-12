@@ -1,0 +1,1166 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "en": "Revelation",
+      "fr": "La Révélation",
+      "ar": "كتاب بدء الوحي"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 7,
+    "first_arabic_number": 1,
+    "last_arabic_number": 7
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "en": "Belief",
+      "fr": "La Croyance",
+      "ar": "كتاب الإيمان"
+    },
+    "first_hadith_number": 8,
+    "last_hadith_number": 58,
+    "first_arabic_number": 8,
+    "last_arabic_number": 58
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "en": "Knowledge",
+      "fr": "La Science",
+      "ar": "كتاب العلم"
+    },
+    "first_hadith_number": 59,
+    "last_hadith_number": 134,
+    "first_arabic_number": 59,
+    "last_arabic_number": 134
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "en": "Ablutions (Wudu')",
+      "fr": "Les Ablutions (Wudu')",
+      "ar": "كتاب الوضوء"
+    },
+    "first_hadith_number": 135,
+    "last_hadith_number": 247,
+    "first_arabic_number": 135,
+    "last_arabic_number": 247
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "en": "Bathing (Ghusl)",
+      "fr": "Le Bain Rituel (Ghusl)",
+      "ar": "كتاب الغسل"
+    },
+    "first_hadith_number": 248,
+    "last_hadith_number": 293,
+    "first_arabic_number": 248,
+    "last_arabic_number": 293
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "en": "Menstrual Periods",
+      "fr": "Les Menstrues",
+      "ar": "كتاب الحيض"
+    },
+    "first_hadith_number": 294,
+    "last_hadith_number": 333,
+    "first_arabic_number": 294,
+    "last_arabic_number": 333
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "en": "Rubbing hands and feet with dust (Tayammum)",
+      "fr": "Le Tayammum (Ablution sèche)",
+      "ar": "كتاب التيمم"
+    },
+    "first_hadith_number": 334,
+    "last_hadith_number": 348,
+    "first_arabic_number": 334,
+    "last_arabic_number": 348
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "en": "Prayers (Salat)",
+      "fr": "La Prière (Salat)",
+      "ar": "كتاب الصلاة"
+    },
+    "first_hadith_number": 349,
+    "last_hadith_number": 520,
+    "first_arabic_number": 349,
+    "last_arabic_number": 520
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "en": "Times of the Prayers",
+      "fr": "Les Temps de Prière",
+      "ar": "كتاب مواقيت الصلاة"
+    },
+    "first_hadith_number": 522,
+    "last_hadith_number": 602,
+    "first_arabic_number": 522,
+    "last_arabic_number": 602
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "en": "Call to Prayers (Adhaan)",
+      "fr": "L'Appel à la Prière (Adhân)",
+      "ar": "كتاب الأذان"
+    },
+    "first_hadith_number": 603,
+    "last_hadith_number": 875,
+    "first_arabic_number": 603,
+    "last_arabic_number": 875
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "en": "Friday Prayer",
+      "fr": "La Prière du Vendredi",
+      "ar": "كتاب الجمعة"
+    },
+    "first_hadith_number": 876,
+    "last_hadith_number": 941,
+    "first_arabic_number": 876,
+    "last_arabic_number": 941
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "en": "Fear Prayer",
+      "fr": "La Prière de la Crainte",
+      "ar": "كتاب صلاة الخوف"
+    },
+    "first_hadith_number": 942,
+    "last_hadith_number": 947,
+    "first_arabic_number": 942,
+    "last_arabic_number": 947
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "en": "The Two Festivals (Eids)",
+      "fr": "Les Deux Fêtes (Aïds)",
+      "ar": "كتاب العيدين"
+    },
+    "first_hadith_number": 948,
+    "last_hadith_number": 989,
+    "first_arabic_number": 948,
+    "last_arabic_number": 989
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "en": "Witr Prayer",
+      "fr": "La Prière du Witr",
+      "ar": "كتاب الوتر"
+    },
+    "first_hadith_number": 990,
+    "last_hadith_number": 1004,
+    "first_arabic_number": 990,
+    "last_arabic_number": 1004
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "en": "Invoking Allah for Rain (Istisqaa)",
+      "fr": "L’Invocation pour la Pluie (Istisqâ')",
+      "ar": "كتاب الاستسقاء"
+    },
+    "first_hadith_number": 1005,
+    "last_hadith_number": 1039,
+    "first_arabic_number": 1005,
+    "last_arabic_number": 1039
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "en": "Eclipses",
+      "fr": "Les Éclipses",
+      "ar": "كتاب الكسوف"
+    },
+    "first_hadith_number": 1040,
+    "last_hadith_number": 1066,
+    "first_arabic_number": 1040,
+    "last_arabic_number": 1066
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "en": "Prostration During Recital of Qur'an",
+      "fr": "La Prosternation lors de la Récitation du Coran",
+      "ar": "كتاب سجود القرآن"
+    },
+    "first_hadith_number": 1067,
+    "last_hadith_number": 1079,
+    "first_arabic_number": 1067,
+    "last_arabic_number": 1079
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "en": "Shortening the Prayers (At-Taqseer)",
+      "fr": "Raccourcir la Prière (At-Taqsîr)",
+      "ar": "كتاب تقصير الصلاة"
+    },
+    "first_hadith_number": 1080,
+    "last_hadith_number": 1119,
+    "first_arabic_number": 1080,
+    "last_arabic_number": 1119
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "en": "Prayer at Night (Tahajjud)",
+      "fr": "La Prière Nocturne (Tahajjud)",
+      "ar": "كتاب التهجد"
+    },
+    "first_hadith_number": 1120,
+    "last_hadith_number": 1187,
+    "first_arabic_number": 1120,
+    "last_arabic_number": 1187
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "en": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "fr": "Mérites de la Prière à La Mecque et à Médine",
+      "ar": "كتاب فضل الصلاة في مسجد مكة والمدينة"
+    },
+    "first_hadith_number": 1188,
+    "last_hadith_number": 1197,
+    "first_arabic_number": 1188,
+    "last_arabic_number": 1197
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "en": "Actions while Praying",
+      "fr": "Les Gestes pendant la Prière",
+      "ar": "كتاب العمل في الصلاة"
+    },
+    "first_hadith_number": 1198,
+    "last_hadith_number": 1223,
+    "first_arabic_number": 1198,
+    "last_arabic_number": 1223
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "en": "Forgetfulness in Prayer",
+      "fr": "L’Oubli dans la Prière",
+      "ar": "كتاب السهو"
+    },
+    "first_hadith_number": 1224,
+    "last_hadith_number": 1236,
+    "first_arabic_number": 1224,
+    "last_arabic_number": 1236
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "en": "Funerals (Al-Janaa'iz)",
+      "fr": "Les Funérailles (Al-Janâ'iz)",
+      "ar": "كتاب الجنائز"
+    },
+    "first_hadith_number": 1237,
+    "last_hadith_number": 1394,
+    "first_arabic_number": 1237,
+    "last_arabic_number": 1394
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "en": "Obligatory Charity Tax (Zakat)",
+      "fr": "L’Impôt Obligatoire (Zakât)",
+      "ar": "كتاب الزكاة"
+    },
+    "first_hadith_number": 1395,
+    "last_hadith_number": 1512,
+    "first_arabic_number": 1395,
+    "last_arabic_number": 1512
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "en": "Hajj (Pilgrimage)",
+      "fr": "Le Pèlerinage (Hajj)",
+      "ar": "كتاب الحج"
+    },
+    "first_hadith_number": 1513,
+    "last_hadith_number": 1772,
+    "first_arabic_number": 1513,
+    "last_arabic_number": 1772
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "en": "`Umrah (Minor pilgrimage)",
+      "fr": "La `Umrah (Petit pèlerinage)",
+      "ar": "كتاب العمرة"
+    },
+    "first_hadith_number": 1773,
+    "last_hadith_number": 1805,
+    "first_arabic_number": 1773,
+    "last_arabic_number": 1805
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "en": "Pilgrims Prevented from Completing the Pilgrimage",
+      "fr": "Empêchement du Pèlerin à Compléter son Hajj",
+      "ar": "كتاب المحصر"
+    },
+    "first_hadith_number": 1806,
+    "last_hadith_number": 1820,
+    "first_arabic_number": 1806,
+    "last_arabic_number": 1820
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "en": "Penalty of Hunting while on Pilgrimage",
+      "fr": "Sanction de la Chasse en Pèlerinage",
+      "ar": "كتاب جزاء الصيد"
+    },
+    "first_hadith_number": 1821,
+    "last_hadith_number": 1866,
+    "first_arabic_number": 1821,
+    "last_arabic_number": 1866
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "en": "Virtues of Madinah",
+      "fr": "Les Mérites de Médine",
+      "ar": "كتاب فضائل المدينة"
+    },
+    "first_hadith_number": 1867,
+    "last_hadith_number": 1890,
+    "first_arabic_number": 1867,
+    "last_arabic_number": 1890
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "en": "Fasting",
+      "fr": "Le Jeûne",
+      "ar": "كتاب الصوم"
+    },
+    "first_hadith_number": 1891,
+    "last_hadith_number": 2007,
+    "first_arabic_number": 1891,
+    "last_arabic_number": 2007
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "en": "Praying at Night in Ramadaan (Taraweeh)",
+      "fr": "La Prière Nocturne durant Ramadan (Tarâwîh)",
+      "ar": "كتاب صلاة التراويح"
+    },
+    "first_hadith_number": 2008,
+    "last_hadith_number": 2013,
+    "first_arabic_number": 2008,
+    "last_arabic_number": 2013
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "en": "Virtues of the Night of Qadr",
+      "fr": "Les Mérites de la Nuit du Destin (Laylat al-Qadr)",
+      "ar": "كتاب فضل ليلة القدر"
+    },
+    "first_hadith_number": 2014,
+    "last_hadith_number": 2024,
+    "first_arabic_number": 2014,
+    "last_arabic_number": 2024
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "en": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "fr": "L’I‘tikâf (Retraite spirituelle en Mosquée)",
+      "ar": "كتاب الاعتكاف"
+    },
+    "first_hadith_number": 2025,
+    "last_hadith_number": 2046,
+    "first_arabic_number": 2025,
+    "last_arabic_number": 2046
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "en": "Sales and Trade",
+      "fr": "Les Ventes et le Commerce",
+      "ar": "كتاب البيوع"
+    },
+    "first_hadith_number": 2047,
+    "last_hadith_number": 2238,
+    "first_arabic_number": 2047,
+    "last_arabic_number": 2238
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "en": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "fr": "Les Ventes Anticipées (As-Salam)",
+      "ar": "كتاب السلم"
+    },
+    "first_hadith_number": 2239,
+    "last_hadith_number": 2256,
+    "first_arabic_number": 2239,
+    "last_arabic_number": 2256
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "en": "Shuf'a",
+      "fr": "Le Droit de Préemption (Shuf‘ah)",
+      "ar": "كتاب الشفعة"
+    },
+    "first_hadith_number": 2257,
+    "last_hadith_number": 2259,
+    "first_arabic_number": 2257,
+    "last_arabic_number": 2259
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "en": "Hiring",
+      "fr": "La Location",
+      "ar": "كتاب الإجارة"
+    },
+    "first_hadith_number": 2260,
+    "last_hadith_number": 2286,
+    "first_arabic_number": 2260,
+    "last_arabic_number": 2286
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "en": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "fr": "La Délégation de Dette (Al-Hawâlah)",
+      "ar": "كتاب الحوالات"
+    },
+    "first_hadith_number": 2287,
+    "last_hadith_number": 2289,
+    "first_arabic_number": 2287,
+    "last_arabic_number": 2289
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "en": "Kafalah",
+      "fr": "La Garantie (Kafâlah)",
+      "ar": "كتاب الكفالة"
+    },
+    "first_hadith_number": 2290,
+    "last_hadith_number": 2298,
+    "first_arabic_number": 2290,
+    "last_arabic_number": 2298
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "en": "Representation, Authorization, Business by Proxy",
+      "fr": "La Représentation et Procuration",
+      "ar": "كتاب الوكالة"
+    },
+    "first_hadith_number": 2299,
+    "last_hadith_number": 2319,
+    "first_arabic_number": 2299,
+    "last_arabic_number": 2319
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "en": "Agriculture",
+      "fr": "L’Agriculture",
+      "ar": "كتاب المزارعة"
+    },
+    "first_hadith_number": 2320,
+    "last_hadith_number": 2350,
+    "first_arabic_number": 2320,
+    "last_arabic_number": 2350
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "en": "Distribution of Water",
+      "fr": "La Répartition de l’Eau",
+      "ar": "كتاب المساقاة"
+    },
+    "first_hadith_number": 2351,
+    "last_hadith_number": 2383,
+    "first_arabic_number": 2351,
+    "last_arabic_number": 2383
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "en": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "fr": "Les Prêts, Remboursements, Gel de Biens et Faillites",
+      "ar": "كتاب في الاستقراض وأداء الديون والحجر والتفليس"
+    },
+    "first_hadith_number": 2385,
+    "last_hadith_number": 2409,
+    "first_arabic_number": 2385,
+    "last_arabic_number": 2409
+  },
+  {
+    "section_number": 44,
+    "name": {
+      "en": "Khusoomaat",
+      "fr": "Les Litiges (Khusûمât)",
+      "ar": "كتاب الخصومات"
+    },
+    "first_hadith_number": 2410,
+    "last_hadith_number": 2425,
+    "first_arabic_number": 2410,
+    "last_arabic_number": 2425
+  },
+  {
+    "section_number": 45,
+    "name": {
+      "en": "Lost Things Picked up by Someone (Luqatah)",
+      "fr": "Les Objets Perdus (Luqatah)",
+      "ar": "كتاب اللقطة"
+    },
+    "first_hadith_number": 2426,
+    "last_hadith_number": 2439,
+    "first_arabic_number": 2426,
+    "last_arabic_number": 2439
+  },
+  {
+    "section_number": 46,
+    "name": {
+      "en": "Oppressions",
+      "fr": "Les Oppressions",
+      "ar": "كتاب المظالم"
+    },
+    "first_hadith_number": 2440,
+    "last_hadith_number": 2482,
+    "first_arabic_number": 2440,
+    "last_arabic_number": 2482
+  },
+  {
+    "section_number": 47,
+    "name": {
+      "en": "Partnership",
+      "fr": "Les Associations et Partenariats",
+      "ar": "كتاب الشركة"
+    },
+    "first_hadith_number": 2483,
+    "last_hadith_number": 2507,
+    "first_arabic_number": 2483,
+    "last_arabic_number": 2507
+  },
+  {
+    "section_number": 48,
+    "name": {
+      "en": "Mortgaging",
+      "fr": "L’Hypothèque",
+      "ar": "كتاب الرهن"
+    },
+    "first_hadith_number": 2508,
+    "last_hadith_number": 2515,
+    "first_arabic_number": 2508,
+    "last_arabic_number": 2515
+  },
+  {
+    "section_number": 49,
+    "name": {
+      "en": "Manumission of Slaves",
+      "fr": "L’Affranchissement des Esclaves",
+      "ar": "كتاب العتق"
+    },
+    "first_hadith_number": 2517,
+    "last_hadith_number": 2559,
+    "first_arabic_number": 2517,
+    "last_arabic_number": 2559
+  },
+  {
+    "section_number": 50,
+    "name": {
+      "en": "Makaatib",
+      "fr": "Les Contrats de Libération (Mukatabah)",
+      "ar": "كتاب المكاتب"
+    },
+    "first_hadith_number": 2560,
+    "last_hadith_number": 2565,
+    "first_arabic_number": 2560,
+    "last_arabic_number": 2565
+  },
+  {
+    "section_number": 51,
+    "name": {
+      "en": "Gifts",
+      "fr": "Les Dons",
+      "ar": "كتاب الهبة"
+    },
+    "first_hadith_number": 2566,
+    "last_hadith_number": 2636,
+    "first_arabic_number": 2566,
+    "last_arabic_number": 2636
+  },
+  {
+    "section_number": 52,
+    "name": {
+      "en": "Witnesses",
+      "fr": "Les Témoins",
+      "ar": "كتاب الشهادات"
+    },
+    "first_hadith_number": 2637,
+    "last_hadith_number": 2689,
+    "first_arabic_number": 2637,
+    "last_arabic_number": 2689
+  },
+  {
+    "section_number": 53,
+    "name": {
+      "en": "Peacemaking",
+      "fr": "La Réconciliation",
+      "ar": "كتاب الصلح"
+    },
+    "first_hadith_number": 2690,
+    "last_hadith_number": 2710,
+    "first_arabic_number": 2690,
+    "last_arabic_number": 2710
+  },
+  {
+    "section_number": 54,
+    "name": {
+      "en": "Conditions",
+      "fr": "Les Conditions",
+      "ar": "كتاب الشروط"
+    },
+    "first_hadith_number": 2712,
+    "last_hadith_number": 2737,
+    "first_arabic_number": 2712,
+    "last_arabic_number": 2737
+  },
+  {
+    "section_number": 55,
+    "name": {
+      "en": "Wills and Testaments (Wasaayaa)",
+      "fr": "Les Testaments (Wasiyyah)",
+      "ar": "كتاب الوصايا"
+    },
+    "first_hadith_number": 2738,
+    "last_hadith_number": 2781,
+    "first_arabic_number": 2738,
+    "last_arabic_number": 2781
+  },
+  {
+    "section_number": 56,
+    "name": {
+      "en": "Fighting for the Cause of Allah (Jihaad)",
+      "fr": "Le Combat dans la Voie d’Allah (Jihâد)",
+      "ar": "كتاب الجهاد والسير"
+    },
+    "first_hadith_number": 2782,
+    "last_hadith_number": 3090,
+    "first_arabic_number": 2782,
+    "last_arabic_number": 3090
+  },
+  {
+    "section_number": 57,
+    "name": {
+      "en": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "fr": "Le Cinquième du Butin (Khumus)",
+      "ar": "كتاب الخمس"
+    },
+    "first_hadith_number": 3091,
+    "last_hadith_number": 3155,
+    "first_arabic_number": 3091,
+    "last_arabic_number": 3155
+  },
+  {
+    "section_number": 58,
+    "name": {
+      "en": "Jizyah and Mawaada'ah",
+      "fr": "Le Jizyah et les Traités de Paix",
+      "ar": "كتاب الجزية والموادعة"
+    },
+    "first_hadith_number": 3157,
+    "last_hadith_number": 3189,
+    "first_arabic_number": 3157,
+    "last_arabic_number": 3189
+  },
+  {
+    "section_number": 59,
+    "name": {
+      "en": "Beginning of Creation",
+      "fr": "Le Commencement de la Création",
+      "ar": "كتاب بدء الخلق"
+    },
+    "first_hadith_number": 3190,
+    "last_hadith_number": 3325,
+    "first_arabic_number": 3190,
+    "last_arabic_number": 3325
+  },
+  {
+    "section_number": 60,
+    "name": {
+      "en": "Prophets",
+      "fr": "Les Prophètes",
+      "ar": "كتاب أحاديث الأنبياء"
+    },
+    "first_hadith_number": 3326,
+    "last_hadith_number": 3488,
+    "first_arabic_number": 3326,
+    "last_arabic_number": 3488
+  },
+  {
+    "section_number": 61,
+    "name": {
+      "en": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "fr": "Mérites du Prophète ﷺ et de ses Compagnons",
+      "ar": "كتاب مناقب الأنبياء"
+    },
+    "first_hadith_number": 3489,
+    "last_hadith_number": 3648,
+    "first_arabic_number": 3489,
+    "last_arabic_number": 3648
+  },
+  {
+    "section_number": 62,
+    "name": {
+      "en": "Companions of the Prophet",
+      "fr": "Les Compagnons du Prophète ﷺ",
+      "ar": "كتاب فضائل أصحاب النبي ﷺ"
+    },
+    "first_hadith_number": 3649,
+    "last_hadith_number": 3775,
+    "first_arabic_number": 3649,
+    "last_arabic_number": 3775
+  },
+  {
+    "section_number": 63,
+    "name": {
+      "en": "Merits of the Helpers in Madinah (Ansaar)",
+      "fr": "Les Mérites des Ansâr (Aides de Médine)",
+      "ar": "كتاب مناقب الأنصار"
+    },
+    "first_hadith_number": 3776,
+    "last_hadith_number": 3948,
+    "first_arabic_number": 3776,
+    "last_arabic_number": 3948
+  },
+  {
+    "section_number": 64,
+    "name": {
+      "en": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "fr": "Les Expéditions Militaires du Prophète ﷺ (Al-Maghâزي)",
+      "ar": "كتاب المغازي"
+    },
+    "first_hadith_number": 3949,
+    "last_hadith_number": 4473,
+    "first_arabic_number": 3949,
+    "last_arabic_number": 4473
+  },
+  {
+    "section_number": 65,
+    "name": {
+      "en": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "fr": "L’Exégèse Prophétique du Coran (Tafsîر du Prophète ﷺ)",
+      "ar": "كتاب التفسير"
+    },
+    "first_hadith_number": 4474,
+    "last_hadith_number": 4977,
+    "first_arabic_number": 4474,
+    "last_arabic_number": 4977
+  },
+  {
+    "section_number": 66,
+    "name": {
+      "en": "Virtues of the Qur'an",
+      "fr": "Les Mérites du Coran",
+      "ar": "كتاب فضائل القرآن"
+    },
+    "first_hadith_number": 4979,
+    "last_hadith_number": 5062,
+    "first_arabic_number": 4979,
+    "last_arabic_number": 5062
+  },
+  {
+    "section_number": 67,
+    "name": {
+      "en": "Wedlock, Marriage (Nikaah)",
+      "fr": "Le Mariage (Nikâح)",
+      "ar": "كتاب النكاح"
+    },
+    "first_hadith_number": 5063,
+    "last_hadith_number": 5250,
+    "first_arabic_number": 5063,
+    "last_arabic_number": 5250
+  },
+  {
+    "section_number": 68,
+    "name": {
+      "en": "Divorce",
+      "fr": "Le Divorce",
+      "ar": "كتاب الطلاق"
+    },
+    "first_hadith_number": 5251,
+    "last_hadith_number": 5350,
+    "first_arabic_number": 5251,
+    "last_arabic_number": 5350
+  },
+  {
+    "section_number": 69,
+    "name": {
+      "en": "Supporting the Family",
+      "fr": "Le Soutien à la Famille",
+      "ar": "كتاب النفقات"
+    },
+    "first_hadith_number": 5351,
+    "last_hadith_number": 5372,
+    "first_arabic_number": 5351,
+    "last_arabic_number": 5372
+  },
+  {
+    "section_number": 70,
+    "name": {
+      "en": "Food, Meals",
+      "fr": "La Nourriture et les Repas",
+      "ar": "كتاب الأطعمة"
+    },
+    "first_hadith_number": 5373,
+    "last_hadith_number": 5466,
+    "first_arabic_number": 5373,
+    "last_arabic_number": 5466
+  },
+  {
+    "section_number": 71,
+    "name": {
+      "en": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "fr": "Le Sacrifice à la Naissance (`Aqîقah)",
+      "ar": "كتاب العقيقة"
+    },
+    "first_hadith_number": 5467,
+    "last_hadith_number": 5474,
+    "first_arabic_number": 5467,
+    "last_arabic_number": 5474
+  },
+  {
+    "section_number": 72,
+    "name": {
+      "en": "Hunting, Slaughtering",
+      "fr": "La Chasse et l’Abattage",
+      "ar": "كتاب الصيد والذبائح"
+    },
+    "first_hadith_number": 5475,
+    "last_hadith_number": 5544,
+    "first_arabic_number": 5475,
+    "last_arabic_number": 5544
+  },
+  {
+    "section_number": 73,
+    "name": {
+      "en": "Al-Adha Festival Sacrifice (Adaahi)",
+      "fr": "Le Sacrifice de l’Aïd al-Adhâ (Adâهي)",
+      "ar": "كتاب الأضاحي"
+    },
+    "first_hadith_number": 5545,
+    "last_hadith_number": 5574,
+    "first_arabic_number": 5545,
+    "last_arabic_number": 5574
+  },
+  {
+    "section_number": 74,
+    "name": {
+      "en": "Drinks",
+      "fr": "Les Boissons",
+      "ar": "كتاب الأشربة"
+    },
+    "first_hadith_number": 5575,
+    "last_hadith_number": 5639,
+    "first_arabic_number": 5575,
+    "last_arabic_number": 5639
+  },
+  {
+    "section_number": 75,
+    "name": {
+      "en": "Patients",
+      "fr": "Les Malades",
+      "ar": "كتاب المرضى"
+    },
+    "first_hadith_number": 5640,
+    "last_hadith_number": 5677,
+    "first_arabic_number": 5640,
+    "last_arabic_number": 5677
+  },
+  {
+    "section_number": 76,
+    "name": {
+      "en": "Medicine",
+      "fr": "La Médecine",
+      "ar": "كتاب الطب"
+    },
+    "first_hadith_number": 5678,
+    "last_hadith_number": 5782,
+    "first_arabic_number": 5678,
+    "last_arabic_number": 5782
+  },
+  {
+    "section_number": 77,
+    "name": {
+      "en": "Dress",
+      "fr": "La Tenue Vestimentaire",
+      "ar": "كتاب اللباس"
+    },
+    "first_hadith_number": 5783,
+    "last_hadith_number": 5969,
+    "first_arabic_number": 5783,
+    "last_arabic_number": 5969
+  },
+  {
+    "section_number": 78,
+    "name": {
+      "en": "Good Manners and Form (Al-Adab)",
+      "fr": "Le Comportement et les Bonnes Manières (Al-Adab)",
+      "ar": "كتاب الأدب"
+    },
+    "first_hadith_number": 5970,
+    "last_hadith_number": 6226,
+    "first_arabic_number": 5970,
+    "last_arabic_number": 6226
+  },
+  {
+    "section_number": 79,
+    "name": {
+      "en": "Asking Permission",
+      "fr": "La Demande de Permission",
+      "ar": "كتاب الاستئذان"
+    },
+    "first_hadith_number": 6227,
+    "last_hadith_number": 6303,
+    "first_arabic_number": 6227,
+    "last_arabic_number": 6303
+  },
+  {
+    "section_number": 80,
+    "name": {
+      "en": "Invocations",
+      "fr": "Les Invocations",
+      "ar": "كتاب الدعوات"
+    },
+    "first_hadith_number": 6304,
+    "last_hadith_number": 6411,
+    "first_arabic_number": 6304,
+    "last_arabic_number": 6411
+  },
+  {
+    "section_number": 81,
+    "name": {
+      "en": "To make the Heart Tender (Ar-Riqaq)",
+      "fr": "L’Attendrissement du Cœur (Ar-Riqâق)",
+      "ar": "كتاب الرقاق"
+    },
+    "first_hadith_number": 6412,
+    "last_hadith_number": 6593,
+    "first_arabic_number": 6412,
+    "last_arabic_number": 6593
+  },
+  {
+    "section_number": 82,
+    "name": {
+      "en": "Divine Will (Al-Qadar)",
+      "fr": "La Prédestination Divine (Al-Qadar)",
+      "ar": "كتاب القدر"
+    },
+    "first_hadith_number": 6594,
+    "last_hadith_number": 6620,
+    "first_arabic_number": 6594,
+    "last_arabic_number": 6620
+  },
+  {
+    "section_number": 83,
+    "name": {
+      "en": "Oaths and Vows",
+      "fr": "Les Serments et Vœux",
+      "ar": "كتاب الأيمان والنذور"
+    },
+    "first_hadith_number": 6621,
+    "last_hadith_number": 6707,
+    "first_arabic_number": 6621,
+    "last_arabic_number": 6707
+  },
+  {
+    "section_number": 84,
+    "name": {
+      "en": "Expiation for Unfulfilled Oaths",
+      "fr": "L’Expiation des Serments Non Tenus",
+      "ar": "كتاب كفارات الأيمان"
+    },
+    "first_hadith_number": 6708,
+    "last_hadith_number": 6722,
+    "first_arabic_number": 6708,
+    "last_arabic_number": 6722
+  },
+  {
+    "section_number": 85,
+    "name": {
+      "en": "Laws of Inheritance (Al-Faraa'id)",
+      "fr": "Les Lois sur l’Héritage (Al-Farâئد)",
+      "ar": "كتاب الفرائض"
+    },
+    "first_hadith_number": 6723,
+    "last_hadith_number": 6771,
+    "first_arabic_number": 6723,
+    "last_arabic_number": 6771
+  },
+  {
+    "section_number": 86,
+    "name": {
+      "en": "Limits and Punishments set by Allah (Hudood)",
+      "fr": "Les Peines Légales (Hudûد)",
+      "ar": "كتاب الحدود"
+    },
+    "first_hadith_number": 6772,
+    "last_hadith_number": 6860,
+    "first_arabic_number": 6772,
+    "last_arabic_number": 6860
+  },
+  {
+    "section_number": 87,
+    "name": {
+      "en": "Blood Money (Ad-Diyat)",
+      "fr": "Le Prix du Sang (Ad-Diyât)",
+      "ar": "كتاب الديات"
+    },
+    "first_hadith_number": 6861,
+    "last_hadith_number": 6917,
+    "first_arabic_number": 6861,
+    "last_arabic_number": 6917
+  },
+  {
+    "section_number": 88,
+    "name": {
+      "en": "Apostates",
+      "fr": "Les Apostats",
+      "ar": "كتاب استتابة المرتدين"
+    },
+    "first_hadith_number": 6918,
+    "last_hadith_number": 6939,
+    "first_arabic_number": 6918,
+    "last_arabic_number": 6939
+  },
+  {
+    "section_number": 89,
+    "name": {
+      "en": "(Statements made under) Coercion",
+      "fr": "Les Déclarations sous Contrainte",
+      "ar": "كتاب الإكراه"
+    },
+    "first_hadith_number": 6940,
+    "last_hadith_number": 6952,
+    "first_arabic_number": 6940,
+    "last_arabic_number": 6952
+  },
+  {
+    "section_number": 90,
+    "name": {
+      "en": "Tricks",
+      "fr": "Les Ruses (Légales ou Frauduleuses)",
+      "ar": "كتاب الحيل"
+    },
+    "first_hadith_number": 6953,
+    "last_hadith_number": 6981,
+    "first_arabic_number": 6953,
+    "last_arabic_number": 6981
+  },
+  {
+    "section_number": 91,
+    "name": {
+      "en": "Interpretation of Dreams",
+      "fr": "L’Interprétation des Rêves",
+      "ar": "كتاب التعبير"
+    },
+    "first_hadith_number": 6982,
+    "last_hadith_number": 7047,
+    "first_arabic_number": 6982,
+    "last_arabic_number": 7047
+  },
+  {
+    "section_number": 92,
+    "name": {
+      "en": "Afflictions and the End of the World",
+      "fr": "Les Épreuves et la Fin du Monde",
+      "ar": "كتاب الفتن"
+    },
+    "first_hadith_number": 7048,
+    "last_hadith_number": 7136,
+    "first_arabic_number": 7048,
+    "last_arabic_number": 7136
+  },
+  {
+    "section_number": 93,
+    "name": {
+      "en": "Judgments (Ahkaam)",
+      "fr": "Les Jugements (Ahkâm)",
+      "ar": "كتاب الأحكام"
+    },
+    "first_hadith_number": 7137,
+    "last_hadith_number": 7225,
+    "first_arabic_number": 7137,
+    "last_arabic_number": 7225
+  },
+  {
+    "section_number": 94,
+    "name": {
+      "en": "Wishes",
+      "fr": "Les Souhaits",
+      "ar": "كتاب التمني"
+    },
+    "first_hadith_number": 7226,
+    "last_hadith_number": 7245,
+    "first_arabic_number": 7226,
+    "last_arabic_number": 7245
+  },
+  {
+    "section_number": 95,
+    "name": {
+      "en": "Accepting Information Given by a Truthful Person",
+      "fr": "L’Acceptation du Témoignage d’un Véridique",
+      "ar": "كتاب أخبار الآحاد"
+    },
+    "first_hadith_number": 7246,
+    "last_hadith_number": 7267,
+    "first_arabic_number": 7246,
+    "last_arabic_number": 7267
+  },
+  {
+    "section_number": 96,
+    "name": {
+      "en": "Holding Fast to the Qur'an and Sunnah",
+      "fr": "S’attacher au Coran et à la Sounnah",
+      "ar": "كتاب الاعتصام بالكتاب والسنة"
+    },
+    "first_hadith_number": 7268,
+    "last_hadith_number": 7370,
+    "first_arabic_number": 7268,
+    "last_arabic_number": 7370
+  },
+  {
+    "section_number": 97,
+    "name": {
+      "en": "Oneness, Uniqueness of Allah (Tawheed)",
+      "fr": "L’Unicité d’Allah (Tawhîd)",
+      "ar": "كتاب التوحيد"
+    },
+    "first_hadith_number": 7371,
+    "last_hadith_number": 7563,
+    "first_arabic_number": 7371,
+    "last_arabic_number": 7563
+  }
+]
