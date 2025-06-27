@@ -10,7 +10,7 @@ Each collection is stored in its own folder, with clear versioning and structure
 
 ## 📂 Repository Structure
 
-```
+
 
 sahih\_bukhari/
 ├── bukhari\_hadiths.jsonl   # All hadiths, newline-delimited JSON
@@ -24,7 +24,7 @@ sahih\_muslim/
 README.md
 LICENSE
 
-````
+
 
 ---
 
@@ -35,6 +35,7 @@ LICENSE
 - **Type:** JSONL (newline-delimited JSON)
 - **One hadith per line** (see example below)
 - **Languages:** Arabic, English, French (extendable)
+````
 
 Each line:
 ```json
