@@ -12,13 +12,13 @@ Each collection is stored in its own folder, with clear versioning and structure
 
 
 
-sahih\_bukhari/
-├── bukhari\_hadiths.jsonl   # All hadiths, newline-delimited JSON
-├── bukhari\_sections.json   # All section info, grouped by chapter/subject
+sahih_bukhari/
+├── bukhari_hadiths.jsonl   # All hadiths, newline-delimited JSON
+├── bukhari_sections.json   # All section info, grouped by chapter/subject
 └── metadata.json           # Version, language, and file information
-sahih\_muslim/
-├── muslim\_hadiths.jsonl
-├── muslim\_sections.json
+sahih_muslim/
+├── muslim_hadiths.jsonl
+├── muslim_sections.json
 └── metadata.json
 ...
 README.md
