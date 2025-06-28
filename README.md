@@ -53,23 +53,23 @@ Each line:
 }
 ````
 
-| Field                 | Description                                        |
-| --------------------- | -------------------------------------------------- |
-| `hadith_number`       | Unique sequential identifier for this dataset      |
-| `arabic_number`       | Original Arabic numbering (as in print edition)    |
-| `translation_version` | Increments on any translation change               |
-| `reference.book`      | Book number in the collection (section - ex: 1 )   |
-| `reference.hadith`    | Position within the book                           |
-| `arabic`              | Original Arabic text                               |
-| `english`             | Reliable English rendering                         |
-| `french`              | Current French translation                         |
+| Field                 | Description                                            |
+| --------------------- | -------------------------------------------------------|
+| `hadith_number`       | Unique sequential identifier for this dataset (double) |
+| `arabic_number`       | Original Arabic numbering (as in print edition)        |
+| `translation_version` | Increments on any translation change                   |
+| `reference.book`      | Book number in the collection (section - ex: 1 )       |
+| `reference.hadith`    | Position within the book                               |
+| `arabic`              | Original Arabic text                                   |
+| `english`             | Reliable English rendering                             |
+| `french`              | Current French translation                             |
 
 **Preview example:**
 
 ```jsonl
 {"hadith_number":123,"arabic_number":123,"translation_version":1,"reference":{"book":1,"hadith":5},"arabic":"حَدَّثَنَا أَبُو...","english":"Narrated Abu ...","french":"Rapporté par ..."}
 {"hadith_number":124,"arabic_number":124,"translation_version":1,"reference":{"book":1,"hadith":6},"arabic":"عَنْ عَائِشَةَ...","english":"Narrated Aisha ...","french":"Rapporté par Aïcha ..."}
-{"hadith_number":125,"arabic_number":125,"translation_version":1,"reference":{"book":1,"hadith":7},"arabic":"قَالَ النَّبِيُّ...","english":"The Prophet ﷺ said ...","french":"Le Prophète ﷺ a dit ..."}
+{"hadith_number":124.2,"arabic_number":124.2,"translation_version":1,"reference":{"book":1,"hadith":7},"arabic":"قَالَ النَّبِيُّ...","english":"The Prophet ﷺ said ...","french":"Le Prophète ﷺ a dit ..."}
 ```
 
 ---
