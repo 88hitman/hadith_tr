@@ -1,8 +1,8 @@
 {
   "collection": "Sahih Bukhari",
   "languages": ["ar", "en", "fr"],
-  "version": 2,
-  "last_updated": "2025-06-12T12:00:00Z",
+  "version": 3,
+  "last_updated": "2025-06-28T12:00:00Z",
   "hadiths_count": 7590,
   "last_hadith_number": 7563,
   "resources": {
@@ -13,8 +13,8 @@
   "contact": "jannaty.app@gmail.com",
   "format": "jsonl",
   "line_format": {
-    "hadith_number": "int",
-    "arabic_number": "int",
+    "hadith_number": "float",       
+    "arabic_number": "float",       
     "translation_version": "int",
     "reference": {
       "book": "int",
@@ -25,3 +25,4 @@
     "french": "string"
   }
 }
+
