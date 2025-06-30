@@ -1,6 +1,7 @@
 
 
 ```markdown
+````
 # Hadith Collections — Multi-Language JSONL Dataset
 
 This repository contains machine-readable files of major hadith collections, in multiple languages, using open standards (JSONL and JSON).  
@@ -10,7 +11,7 @@ Each collection is stored in its own folder, with clear versioning and structure
 
 ## 📂 Repository Structure
 
-
+````
 
 sahih_bukhari/
 ├── bukhari_hadiths.jsonl   # All hadiths, newline-delimited JSON
@@ -25,7 +26,7 @@ README.md
 LICENSE
 
 
-
+````
 ---
 
 ## 📚 File Descriptions
@@ -35,7 +36,7 @@ LICENSE
 - **Type:** JSONL (newline-delimited JSON)
 - **One hadith per line** (see example below)
 - **Languages:** Arabic, English, French (extendable)
-````
+
 
 Each line:
 ```json
