@@ -1,0 +1,31 @@
+{
+  "collection": "40 Hadiths Nawawi",
+  "languages": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "version": 1,
+  "last_updated": "2025-06-30T15:09:57+00:00Z",
+  "hadiths_count": 42,
+  "last_hadith_number": 42,
+  "resources": {
+    "hadiths": "nawawi_hadiths.jsonl",
+    "sections": "nawawi_sections.json"
+  },
+  "source": "https://github.com/88hitman/hadith_tr",
+  "contact": "jannaty.app@gmail.com",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "int",
+    "arabic_number": "int",
+    "translation_version": "int",
+    "reference": {
+      "book": "int",
+      "hadith": "int"
+    },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  }
+}
