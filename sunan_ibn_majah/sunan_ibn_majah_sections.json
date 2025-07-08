@@ -1,0 +1,458 @@
+[
+  {
+    "section_number": 0,
+    "name": {
+      "en": "The Book of the Sunnah",
+      "fr": "Le Livre de la Sunna",
+      "ar": "كتاب السنة"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 266,
+    "first_arabic_number": 1,
+    "last_arabic_number": 266
+  },
+  {
+    "section_number": 1,
+    "name": {
+      "en": "The Book of Purification and its Sunnah",
+      "fr": "Le Livre de la Purification et ses Sunan",
+      "ar": "كتاب الطهارة وسننها"
+    },
+    "first_hadith_number": 267,
+    "last_hadith_number": 666,
+    "first_arabic_number": 267,
+    "last_arabic_number": 666
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "en": "The Chapters on Divorce",
+      "fr": "Les chapitres du divorce",
+      "ar": "كتاب الطلاق"
+    },
+    "first_hadith_number": 2016,
+    "last_hadith_number": 2477,
+    "first_arabic_number": 2016,
+    "last_arabic_number": 2477
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "en": "The Chapters on Expiation",
+      "fr": "Les chapitres de l’expiation",
+      "ar": "كتاب الكفارات"
+    },
+    "first_hadith_number": 2090,
+    "last_hadith_number": 2136,
+    "first_arabic_number": 2090,
+    "last_arabic_number": 2136
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "en": "The Chapters on Business Transactions",
+      "fr": "Les chapitres des transactions commerciales",
+      "ar": "كتاب البيوع"
+    },
+    "first_hadith_number": 2137,
+    "last_hadith_number": 2307,
+    "first_arabic_number": 2137,
+    "last_arabic_number": 2307
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "en": "The Chapters on Rulings",
+      "fr": "Les chapitres des jugements",
+      "ar": "كتاب الأحكام"
+    },
+    "first_hadith_number": 2308,
+    "last_hadith_number": 2374,
+    "first_arabic_number": 2308,
+    "last_arabic_number": 2374
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "en": "The Chapters on Gifts",
+      "fr": "Les chapitres des dons",
+      "ar": "كتاب الهبات"
+    },
+    "first_hadith_number": 2375,
+    "last_hadith_number": 2389,
+    "first_arabic_number": 2375,
+    "last_arabic_number": 2389
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "en": "The Chapters on Charity",
+      "fr": "Les chapitres de la charité",
+      "ar": "كتاب الصدقة"
+    },
+    "first_hadith_number": 2390,
+    "last_hadith_number": 2528,
+    "first_arabic_number": 2390,
+    "last_arabic_number": 2528
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "en": "The Chapters on Pawning",
+      "fr": "Les chapitres du gage",
+      "ar": "كتاب الرهن"
+    },
+    "first_hadith_number": 2436,
+    "last_hadith_number": 2491,
+    "first_arabic_number": 2436,
+    "last_arabic_number": 2491
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "en": "The Chapters on Pre-emption",
+      "fr": "Les chapitres du droit de préemption",
+      "ar": "كتاب الشفعة"
+    },
+    "first_hadith_number": 2492,
+    "last_hadith_number": 2501,
+    "first_arabic_number": 2492,
+    "last_arabic_number": 2501
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "en": "The Chapters on Lost Property",
+      "fr": "Les chapitres des objets perdus",
+      "ar": "كتاب اللقطة"
+    },
+    "first_hadith_number": 2502,
+    "last_hadith_number": 2511,
+    "first_arabic_number": 2502,
+    "last_arabic_number": 2511
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "en": "The Chapters on Manumission (of Slaves)",
+      "fr": "Les chapitres de l’affranchissement",
+      "ar": "كتاب العتق"
+    },
+    "first_hadith_number": 2512,
+    "last_hadith_number": 2532,
+    "first_arabic_number": 2512,
+    "last_arabic_number": 2532
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "en": "The Book of the Prayer",
+      "fr": "Le Livre de la prière",
+      "ar": "كتاب الصلاة"
+    },
+    "first_hadith_number": 667,
+    "last_hadith_number": 705,
+    "first_arabic_number": 667,
+    "last_arabic_number": 705
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "en": "The Chapters on Legal Punishments",
+      "fr": "Les chapitres des peines légales",
+      "ar": "كتاب الحدود"
+    },
+    "first_hadith_number": 2533,
+    "last_hadith_number": 2614,
+    "first_arabic_number": 2533,
+    "last_arabic_number": 2614
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "en": "The Chapters on Blood Money",
+      "fr": "Les chapitres du prix du sang",
+      "ar": "كتاب الديات"
+    },
+    "first_hadith_number": 2615,
+    "last_hadith_number": 2694,
+    "first_arabic_number": 2615,
+    "last_arabic_number": 2694
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "en": "The Chapters on Wills",
+      "fr": "Les chapitres du testament",
+      "ar": "كتاب الوصايا"
+    },
+    "first_hadith_number": 2695,
+    "last_hadith_number": 2718,
+    "first_arabic_number": 2695,
+    "last_arabic_number": 2718
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "en": "Chapters on Shares of Inheritance",
+      "fr": "Les chapitres des parts d’héritage",
+      "ar": "كتاب الفرائض"
+    },
+    "first_hadith_number": 2719,
+    "last_hadith_number": 2752,
+    "first_arabic_number": 2719,
+    "last_arabic_number": 2752
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "en": "The Chapters on Jihad",
+      "fr": "Les chapitres du jihâd",
+      "ar": "كتاب الجهاد"
+    },
+    "first_hadith_number": 2753,
+    "last_hadith_number": 2881,
+    "first_arabic_number": 2753,
+    "last_arabic_number": 2881
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "en": "Chapters on Hajj Rituals",
+      "fr": "Les chapitres des rites du Hajj",
+      "ar": "كتاب المناسك"
+    },
+    "first_hadith_number": 2882,
+    "last_hadith_number": 3119,
+    "first_arabic_number": 2882,
+    "last_arabic_number": 3119
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "en": "Chapters on Sacrifices",
+      "fr": "Les chapitres des sacrifices",
+      "ar": "كتاب الأضاحي"
+    },
+    "first_hadith_number": 3120,
+    "last_hadith_number": 3161,
+    "first_arabic_number": 3120,
+    "last_arabic_number": 3161
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "en": "Chapters on Slaughtering",
+      "fr": "Les chapitres de l’abattage rituel",
+      "ar": "كتاب الذبائح"
+    },
+    "first_hadith_number": 3162,
+    "last_hadith_number": 3199,
+    "first_arabic_number": 3162,
+    "last_arabic_number": 3199
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "en": "Chapters on Hunting",
+      "fr": "Les chapitres de la chasse",
+      "ar": "كتاب الصيد"
+    },
+    "first_hadith_number": 3200,
+    "last_hadith_number": 3250,
+    "first_arabic_number": 3200,
+    "last_arabic_number": 3250
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "en": "Chapters on Food",
+      "fr": "Les chapitres des aliments",
+      "ar": "كتاب الأطعمة"
+    },
+    "first_hadith_number": 3251,
+    "last_hadith_number": 3370,
+    "first_arabic_number": 3251,
+    "last_arabic_number": 3370
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "en": "The Book of the Adhan and the Sunnah Regarding It",
+      "fr": "Le Livre de l’adhan et ses sunan",
+      "ar": "كتاب الأذان وسننه"
+    },
+    "first_hadith_number": 706,
+    "last_hadith_number": 734,
+    "first_arabic_number": 706,
+    "last_arabic_number": 734
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "en": "Chapters on Drinks",
+      "fr": "Les chapitres des boissons",
+      "ar": "كتاب الأشربة"
+    },
+    "first_hadith_number": 3371,
+    "last_hadith_number": 3435,
+    "first_arabic_number": 3371,
+    "last_arabic_number": 3435
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "en": "Chapters on Medicine",
+      "fr": "Les chapitres de la médecine",
+      "ar": "كتاب الطب"
+    },
+    "first_hadith_number": 3436,
+    "last_hadith_number": 3549,
+    "first_arabic_number": 3436,
+    "last_arabic_number": 3549
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "en": "Chapters on Dress",
+      "fr": "Les chapitres de l’habillement",
+      "ar": "كتاب اللباس"
+    },
+    "first_hadith_number": 3550,
+    "last_hadith_number": 3656,
+    "first_arabic_number": 3550,
+    "last_arabic_number": 3656
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "en": "Etiquette",
+      "fr": "Le bon comportement",
+      "ar": "كتاب الأدب"
+    },
+    "first_hadith_number": 3657,
+    "last_hadith_number": 3826,
+    "first_arabic_number": 3657,
+    "last_arabic_number": 3826
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "en": "Supplication",
+      "fr": "L’invocation",
+      "ar": "كتاب الدعاء"
+    },
+    "first_hadith_number": 3827,
+    "last_hadith_number": 3892,
+    "first_arabic_number": 3827,
+    "last_arabic_number": 3892
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "en": "Interpretation of Dreams",
+      "fr": "L’interprétation des rêves",
+      "ar": "كتاب التعبير"
+    },
+    "first_hadith_number": 3893,
+    "last_hadith_number": 3926,
+    "first_arabic_number": 3893,
+    "last_arabic_number": 3926
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "en": "Tribulations",
+      "fr": "Les épreuves",
+      "ar": "كتاب الفتن"
+    },
+    "first_hadith_number": 3927,
+    "last_hadith_number": 4099,
+    "first_arabic_number": 3927,
+    "last_arabic_number": 4099
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "en": "Zuhd",
+      "fr": "L’ascèse (zuhd)",
+      "ar": "كتاب الزهد"
+    },
+    "first_hadith_number": 4100,
+    "last_hadith_number": 4341,
+    "first_arabic_number": 4100,
+    "last_arabic_number": 4341
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "en": "The Book On The Mosques And The Congregations",
+      "fr": "Le Livre des mosquées et des assemblées",
+      "ar": "كتاب المساجد والجماعات"
+    },
+    "first_hadith_number": 735,
+    "last_hadith_number": 802,
+    "first_arabic_number": 735,
+    "last_arabic_number": 802
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "en": "Establishing the Prayer and the Sunnah Regarding Them",
+      "fr": "L’accomplissement de la prière et ses sunan",
+      "ar": "إقامة الصلاة وسننها"
+    },
+    "first_hadith_number": 803,
+    "last_hadith_number": 1432,
+    "first_arabic_number": 803,
+    "last_arabic_number": 1432
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "en": "Chapters Regarding Funerals",
+      "fr": "Les chapitres des funérailles",
+      "ar": "كتاب الجنائز"
+    },
+    "first_hadith_number": 1433,
+    "last_hadith_number": 1637,
+    "first_arabic_number": 1433,
+    "last_arabic_number": 1637
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "en": "Fasting",
+      "fr": "Le jeûne",
+      "ar": "كتاب الصيام"
+    },
+    "first_hadith_number": 1638,
+    "last_hadith_number": 1782,
+    "first_arabic_number": 1638,
+    "last_arabic_number": 1782
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "en": "The Chapters Regarding Zakat",
+      "fr": "Les chapitres de la zakât",
+      "ar": "كتاب الزكاة"
+    },
+    "first_hadith_number": 1783,
+    "last_hadith_number": 1844,
+    "first_arabic_number": 1783,
+    "last_arabic_number": 1844
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "en": "The Chapters on Marriage",
+      "fr": "Les chapitres du mariage",
+      "ar": "كتاب النكاح"
+    },
+    "first_hadith_number": 1845,
+    "last_hadith_number": 2015,
+    "first_arabic_number": 1845,
+    "last_arabic_number": 2015
+  }
+]

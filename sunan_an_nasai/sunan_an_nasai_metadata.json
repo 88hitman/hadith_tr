@@ -1,0 +1,24 @@
+{
+  "collection": "Sunan an Nasai",
+  "languages": ["ar", "en", "fr"],
+  "version": 1,
+  "last_updated": "2025-07-08T14:17:09.955Z",
+  "hadiths_count": 5691,
+  "last_hadith_number": 5758,
+  "resources": {
+    "hadiths": "sunan_an_nasai_hadiths.jsonl",
+    "sections": "sunan_an_nasai_sections.json"
+  },
+  "source": "https://github.com/88hitman/hadith_tr",
+  "contact": "jannaty.app@gmail.com",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "float",
+    "arabic_number": "float",
+    "translation_version": "int",
+    "reference": { "book": "int", "hadith": "int" },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  }
+}
