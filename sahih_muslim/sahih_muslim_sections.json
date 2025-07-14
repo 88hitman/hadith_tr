@@ -1,0 +1,682 @@
+[
+  {
+    "section_number": 0,
+    "name": { "en": "Introduction", "ar": "مقدمة", "fr": "Introduction" },
+    "first_hadith_number": 1,
+    "last_hadith_number": 92,
+    "first_arabic_number": 1,
+    "last_arabic_number": 7
+  },
+  {
+    "section_number": 1,
+    "name": {
+      "en": "The Book of Faith",
+      "ar": "كتاب الإيمان",
+      "fr": "Le Livre de la Foi"
+    },
+    "first_hadith_number": 93,
+    "last_hadith_number": 533,
+    "first_arabic_number": 8.01,
+    "last_arabic_number": 222.02
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "en": "The Book of Prayer - Eclipses",
+      "ar": "كتاب الكسوف",
+      "fr": "Le Livre des Éclipses"
+    },
+    "first_hadith_number": 2089,
+    "last_hadith_number": 2122,
+    "first_arabic_number": 901.01,
+    "last_arabic_number": 915
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "en": "The Book of Prayer - Funerals",
+      "ar": "كتاب الجنائز",
+      "fr": "Le Livre des Funérailles"
+    },
+    "first_hadith_number": 2123,
+    "last_hadith_number": 2262,
+    "first_arabic_number": 916.01,
+    "last_arabic_number": 978
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "en": "The Book of Zakat",
+      "ar": "كتاب الزكاة",
+      "fr": "Le Livre de la Zakât"
+    },
+    "first_hadith_number": 2263,
+    "last_hadith_number": 2494,
+    "first_arabic_number": 979.01,
+    "last_arabic_number": 1078.02
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "en": "The Book of Fasting ",
+      "ar": "كتاب الصيام",
+      "fr": "Le Livre du Jeûne"
+    },
+    "first_hadith_number": 2495,
+    "last_hadith_number": 2779,
+    "first_arabic_number": 1079.01,
+    "last_arabic_number": 1170
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "en": "The Book of I'tikaf",
+      "ar": "كتاب الاعتكاف",
+      "fr": "Le Livre de l’I‘tikāf"
+    },
+    "first_hadith_number": 2780,
+    "last_hadith_number": 2790,
+    "first_arabic_number": 1171.01,
+    "last_arabic_number": 1176.02
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "en": "The Book of Pilgrimage",
+      "ar": "كتاب الحج",
+      "fr": "Le Livre du Pèlerinage"
+    },
+    "first_hadith_number": 2791,
+    "last_hadith_number": 3397,
+    "first_arabic_number": 1177.01,
+    "last_arabic_number": 1399.09
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "en": "The Book of Marriage",
+      "ar": "كتاب النكاح",
+      "fr": "Le Livre du Mariage"
+    },
+    "first_hadith_number": 388,
+    "last_hadith_number": 3567,
+    "first_arabic_number": 1400.01,
+    "last_arabic_number": 1443
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "en": "The Book of Suckling",
+      "ar": "كتاب الرضاع",
+      "fr": "Le Livre de l’Allaitement"
+    },
+    "first_hadith_number": 3568,
+    "last_hadith_number": 3651,
+    "first_arabic_number": 1444.01,
+    "last_arabic_number": 1470.02
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "en": "The Book of Divorce ",
+      "ar": "كتاب الطلاق",
+      "fr": "Le Livre du Divorce"
+    },
+    "first_hadith_number": 3652,
+    "last_hadith_number": 3742,
+    "first_arabic_number": 1471.01,
+    "last_arabic_number": 1491
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "en": "The Book of Invoking Curses",
+      "ar": "كتاب اللعان",
+      "fr": "Le Livre des Malédictions Conjugales (al-Li‘ān)"
+    },
+    "first_hadith_number": 3743,
+    "last_hadith_number": 3769,
+    "first_arabic_number": 1492.01,
+    "last_arabic_number": 1500.04
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "en": "The Book of Purification",
+      "ar": "كتاب الطهارة",
+      "fr": "Le Livre de la Purification"
+    },
+    "first_hadith_number": 534,
+    "last_hadith_number": 678,
+    "first_arabic_number": 223,
+    "last_arabic_number": 292.02
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "en": "The Book of Emancipating Slaves",
+      "ar": "كتاب العتق",
+      "fr": "Le Livre de l’Émancipation des Esclaves"
+    },
+    "first_hadith_number": 3770,
+    "last_hadith_number": 3800,
+    "first_arabic_number": 1501.01,
+    "last_arabic_number": 1510.02
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "en": "The Book of Transactions",
+      "ar": "كتاب البيوع",
+      "fr": "Le Livre des Transactions"
+    },
+    "first_hadith_number": 3801,
+    "last_hadith_number": 3961,
+    "first_arabic_number": 1511.01,
+    "last_arabic_number": 1550.05
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "en": "The Book of Musaqah",
+      "ar": "كتاب المساقاة",
+      "fr": "Le Livre de la Musāqāh (Partage Agricole)"
+    },
+    "first_hadith_number": 3962,
+    "last_hadith_number": 4139,
+    "first_arabic_number": 1551.01,
+    "last_arabic_number": 1613
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "en": "The Book of the Rules of Inheritance",
+      "ar": "كتاب الفرائض",
+      "fr": "Le Livre des Règles de l’Héritage"
+    },
+    "first_hadith_number": 4140,
+    "last_hadith_number": 4162,
+    "first_arabic_number": 1614,
+    "last_arabic_number": 1619.06
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "en": "The Book of Gifts",
+      "ar": "كتاب الهبة",
+      "fr": "Le Livre des Dons (al-Hibah)"
+    },
+    "first_hadith_number": 4163,
+    "last_hadith_number": 4203,
+    "first_arabic_number": 1620.01,
+    "last_arabic_number": 1626.02
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "en": "The Book of Wills",
+      "ar": "كتاب الوصية",
+      "fr": "Le Livre des Testaments (al-Waṣāyā)"
+    },
+    "first_hadith_number": 4204,
+    "last_hadith_number": 4234,
+    "first_arabic_number": 1627.01,
+    "last_arabic_number": 1637.03
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "en": "The Book of Vows",
+      "ar": "كتاب النذر",
+      "fr": "Le Livre des Vœux"
+    },
+    "first_hadith_number": 4235,
+    "last_hadith_number": 4253,
+    "first_arabic_number": 1638.01,
+    "last_arabic_number": 1645
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "en": "The Book of Oaths",
+      "ar": "كتاب الأيمان",
+      "fr": "Le Livre des Serments"
+    },
+    "first_hadith_number": 4254,
+    "last_hadith_number": 4341,
+    "first_arabic_number": 1646.01,
+    "last_arabic_number": 1668.03
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "en": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+      "ar": "كتاب الأيمان والنذور والمحاربين والقصاص والديات",
+      "fr": "Le Livre des Serments, des Brigands, du Talion et du Prix du Sang"
+    },
+    "first_hadith_number": 4342,
+    "last_hadith_number": 4397,
+    "first_arabic_number": 1669.01,
+    "last_arabic_number": 1683
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "en": "The Book of Legal Punishments",
+      "ar": "كتاب الحدود",
+      "fr": "Le Livre des Peines Légales (al-Ḥudūd)"
+    },
+    "first_hadith_number": 4398,
+    "last_hadith_number": 4469,
+    "first_arabic_number": 1684.01,
+    "last_arabic_number": 1710.05
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "en": "The Book of Menstruation",
+      "ar": "كتاب الحيض",
+      "fr": "Le Livre des Menstrues"
+    },
+    "first_hadith_number": 679,
+    "last_hadith_number": 836,
+    "first_arabic_number": 293.01,
+    "last_arabic_number": 376.04
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "en": "The Book of Judicial Decisions",
+      "ar": "كتاب الأقضية",
+      "fr": "Le Livre du Jugement"
+    },
+    "first_hadith_number": 4470,
+    "last_hadith_number": 4497,
+    "first_arabic_number": 1711.01,
+    "last_arabic_number": 1721
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "en": "The Book of Lost Property",
+      "ar": "كتاب اللقطة",
+      "fr": "Le Livre des Biens Perdus"
+    },
+    "first_hadith_number": 4498,
+    "last_hadith_number": 4518,
+    "first_arabic_number": 1722.01,
+    "last_arabic_number": 1729
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "en": "The Book of Jihad and Expeditions",
+      "ar": "كتاب الجهاد والسير",
+      "fr": "Le Livre du Jihād et des Expéditions"
+    },
+    "first_hadith_number": 4519,
+    "last_hadith_number": 4700,
+    "first_arabic_number": 1730.01,
+    "last_arabic_number": 1817
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "en": "The Book on Government",
+      "ar": "كتاب الإمارة",
+      "fr": "Le Livre du Gouvernement"
+    },
+    "first_hadith_number": 4701,
+    "last_hadith_number": 4967,
+    "first_arabic_number": 1818.01,
+    "last_arabic_number": 1928.02
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "en": "The Book of Hunting, Slaughter, and what may be Eaten",
+      "ar": "كتاب الصيد والذبائح وما يؤكل",
+      "fr": "Le Livre de la Chasse, de l’Abattage et de ce qui est Permis à Consommer"
+    },
+    "first_hadith_number": 4972,
+    "last_hadith_number": 5063,
+    "first_arabic_number": 1929.01,
+    "last_arabic_number": 1959
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "en": "The Book of Sacrifices",
+      "ar": "كتاب الأضاحي",
+      "fr": "Le Livre des Sacrifices"
+    },
+    "first_hadith_number": 5064,
+    "last_hadith_number": 5126,
+    "first_arabic_number": 1960.01,
+    "last_arabic_number": 1978.03
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "en": "The Book of Drinks",
+      "ar": "كتاب الأشربة",
+      "fr": "Le Livre des Boissons"
+    },
+    "first_hadith_number": 5114,
+    "last_hadith_number": 5383,
+    "first_arabic_number": 1979.02,
+    "last_arabic_number": 2064.04
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "en": "The Book of Clothes and Adornment",
+      "ar": "كتاب اللباس والزينة",
+      "fr": "Le Livre des Vêtements et de l’Ornement"
+    },
+    "first_hadith_number": 5385,
+    "last_hadith_number": 5585,
+    "first_arabic_number": 2065.01,
+    "last_arabic_number": 2130.02
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "en": "The Book of Manners and Etiquette",
+      "ar": "كتاب الآداب",
+      "fr": "Le Livre des Bonnes Manières et de l’Étiquette"
+    },
+    "first_hadith_number": 5586,
+    "last_hadith_number": 5645,
+    "first_arabic_number": 2131,
+    "last_arabic_number": 2159.02
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "en": "The Book of Greetings",
+      "ar": "كتاب السلام",
+      "fr": "Le Livre des Salutations"
+    },
+    "first_hadith_number": 5646,
+    "last_hadith_number": 5861,
+    "first_arabic_number": 2160,
+    "last_arabic_number": 2245.02
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "en": "The Book of Prayers ",
+      "ar": "كتاب الصلاة",
+      "fr": "Le Livre de la Prière"
+    },
+    "first_hadith_number": 837,
+    "last_hadith_number": 1160,
+    "first_arabic_number": 377,
+    "last_arabic_number": 519.02
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "en": "The Book Concerning the Use of Correct Words",
+      "ar": "كتاب الكلمات الطيبات",
+      "fr": "Le Livre de l’Usage des Bons Mots"
+    },
+    "first_hadith_number": 5862,
+    "last_hadith_number": 5884,
+    "first_arabic_number": 2246.01,
+    "last_arabic_number": 2254
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "en": "The Book of Poetry",
+      "ar": "كتاب الشعر",
+      "fr": "Le Livre de la Poésie"
+    },
+    "first_hadith_number": 5887,
+    "last_hadith_number": 5896,
+    "first_arabic_number": 2255.03,
+    "last_arabic_number": 2260
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "en": "The Book of Dreams",
+      "ar": "كتاب الرؤيا",
+      "fr": "Le Livre des Rêves"
+    },
+    "first_hadith_number": 5897,
+    "last_hadith_number": 5937,
+    "first_arabic_number": 2261.01,
+    "last_arabic_number": 2275
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "en": "The Book of Virtues",
+      "ar": "كتاب الفضائل",
+      "fr": "Le Livre des Vertus (du Prophète)"
+    },
+    "first_hadith_number": 384,
+    "last_hadith_number": 6168,
+    "first_arabic_number": 2276,
+    "last_arabic_number": 2380.06
+  },
+  {
+    "section_number": 44,
+    "name": {
+      "en": "The Book of the Merits of the Companions",
+      "ar": "كتاب فضائل الصحابة",
+      "fr": "Le Livre des Mérites des Compagnons"
+    },
+    "first_hadith_number": 6169,
+    "last_hadith_number": 6499,
+    "first_arabic_number": 2381,
+    "last_arabic_number": 2547
+  },
+  {
+    "section_number": 45,
+    "name": {
+      "en": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+      "ar": "كتاب البر والصلة والآداب",
+      "fr": "Le Livre de la Vertu, des Bonnes Mœurs et des Liens de Parenté"
+    },
+    "first_hadith_number": 6500,
+    "last_hadith_number": 6722,
+    "first_arabic_number": 2548.01,
+    "last_arabic_number": 2642.02
+  },
+  {
+    "section_number": 46,
+    "name": {
+      "en": "The Book of Destiny",
+      "ar": "كتاب القدر",
+      "fr": "Le Livre du Destin"
+    },
+    "first_hadith_number": 6723,
+    "last_hadith_number": 6774,
+    "first_arabic_number": 2643.01,
+    "last_arabic_number": 2664
+  },
+  {
+    "section_number": 47,
+    "name": {
+      "en": "The Book of Knowledge",
+      "ar": "كتاب العلم",
+      "fr": "Le Livre de la Science"
+    },
+    "first_hadith_number": 6775,
+    "last_hadith_number": 6804,
+    "first_arabic_number": 2665,
+    "last_arabic_number": 2674
+  },
+  {
+    "section_number": 48,
+    "name": {
+      "en": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness ",
+      "ar": "كتاب الذكر والدعاء والتوبة والاستغفار",
+      "fr": "Le Livre du Dhikr, de l’Invocation, du Repentir et du Pardon"
+    },
+    "first_hadith_number": 6805,
+    "last_hadith_number": 6936,
+    "first_arabic_number": 2675.01,
+    "last_arabic_number": 2735.03
+  },
+  {
+    "section_number": 49,
+    "name": {
+      "en": "The Book of Heart-Melting Traditions",
+      "ar": "كتاب الرقاق",
+      "fr": "Le Livre des Traditions qui Attendrissent les Cœurs"
+    },
+    "first_hadith_number": 6937,
+    "last_hadith_number": 6951,
+    "first_arabic_number": 2736,
+    "last_arabic_number": 2743.03
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "en": "The Book of Mosques and Places of Prayer",
+      "ar": "كتاب المساجد ومواضع الصلاة",
+      "fr": "Le Livre des Mosquées et des Lieux de Prière"
+    },
+    "first_hadith_number": 1161,
+    "last_hadith_number": 1569,
+    "first_arabic_number": 520.01,
+    "last_arabic_number": 684.04
+  },
+  {
+    "section_number": 50,
+    "name": {
+      "en": "The Book of Repentance",
+      "ar": "كتاب التوبة",
+      "fr": "Le Livre du Repentir"
+    },
+    "first_hadith_number": 6952,
+    "last_hadith_number": 7023,
+    "first_arabic_number": 2744.01,
+    "last_arabic_number": 2771
+  },
+  {
+    "section_number": 51,
+    "name": {
+      "en": "Characteristics of The Hypocrites And Rulings Concerning Them",
+      "ar": "كتاب صفات المنافقين وأحكامهم",
+      "fr": "Caractéristiques des Hypocrites et Règles à leur Sujet"
+    },
+    "first_hadith_number": 7024,
+    "last_hadith_number": 7044,
+    "first_arabic_number": 2772,
+    "last_arabic_number": 2784.02
+  },
+  {
+    "section_number": 52,
+    "name": {
+      "en": "Characteristics of the Day of Judgment, Paradise, and Hell",
+      "ar": "كتاب صفات يوم القيامة والجنة والنار",
+      "fr": "Caractéristiques du Jour du Jugement, du Paradis et de l’Enfer"
+    },
+    "first_hadith_number": 7045,
+    "last_hadith_number": 7129,
+    "first_arabic_number": 2785,
+    "last_arabic_number": 2821.03
+  },
+  {
+    "section_number": 53,
+    "name": {
+      "en": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+      "ar": "كتاب الجنة وصفة نعيمها وأهلها",
+      "fr": "Le Livre du Paradis, sa Description, ses Délices et ses Habitants"
+    },
+    "first_hadith_number": 7130,
+    "last_hadith_number": 7234,
+    "first_arabic_number": 2822,
+    "last_arabic_number": 2879
+  },
+  {
+    "section_number": 54,
+    "name": {
+      "en": "The Book of Tribulations and Portents of the Last Hour",
+      "ar": "كتاب الفتن وأشراط الساعة",
+      "fr": "Le Livre des Épreuves et des Signes de la Fin des Temps"
+    },
+    "first_hadith_number": 7235,
+    "last_hadith_number": 7416,
+    "first_arabic_number": 2880.01,
+    "last_arabic_number": 2955.03
+  },
+  {
+    "section_number": 55,
+    "name": {
+      "en": "The Book of Zuhd and Softening of Hearts ",
+      "ar": "كتاب الزهد",
+      "fr": "Le Livre de l’Ascétisme et de la Purification des Cœurs"
+    },
+    "first_hadith_number": 7417,
+    "last_hadith_number": 7522,
+    "first_arabic_number": 2956,
+    "last_arabic_number": 3014
+  },
+  {
+    "section_number": 56,
+    "name": {
+      "en": "The Book of Commentary on the Qur'an",
+      "ar": "كتاب التفسير",
+      "fr": "Le Livre du Tafsīr (Commentaire du Coran)"
+    },
+    "first_hadith_number": 7523,
+    "last_hadith_number": 7563,
+    "first_arabic_number": 3015,
+    "last_arabic_number": 3033.02
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "en": "The Book of Prayer - Travellers",
+      "ar": "كتاب صلاة المسافرين",
+      "fr": "Le Livre de la Prière des Voyageurs"
+    },
+    "first_hadith_number": 1570,
+    "last_hadith_number": 1950,
+    "first_arabic_number": 685.01,
+    "last_arabic_number": 843.02
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "en": "The Book of Prayer - Friday",
+      "ar": "كتاب الجمعة",
+      "fr": "Le Livre du Vendredi"
+    },
+    "first_hadith_number": 1951,
+    "last_hadith_number": 2043,
+    "first_arabic_number": 844.01,
+    "last_arabic_number": 883.02
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "en": "The Book of Prayer - Two Eids",
+      "ar": "كتاب العيدين",
+      "fr": "Le Livre des Deux Fêtes (al-‘Idayn)"
+    },
+    "first_hadith_number": 2044,
+    "last_hadith_number": 2069,
+    "first_arabic_number": 884.01,
+    "last_arabic_number": 893
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "en": "The Book of Prayer - Rain",
+      "ar": "كتاب صلاة الاستسقاء",
+      "fr": "Le Livre de la Prière de la Pluie"
+    },
+    "first_hadith_number": 2070,
+    "last_hadith_number": 2088,
+    "first_arabic_number": 894.01,
+    "last_arabic_number": 900.02
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "collection": "Sahih Muslim",
+  "languages": ["ar", "en", "fr"],
+  "version": 1,
+  "last_updated": "2025-07-12T13:38:35.407Z",
+  "hadiths_count": 7307,
+  "last_hadith_number": 7563,
+  "resources": {
+    "hadiths": "sahih_muslim_hadiths.jsonl",
+    "sections": "sahih_muslim_sections.json"
+  },
+  "source": "https://github.com/88hitman/hadith_tr",
+  "contact": "jannaty.app@gmail.com",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "float",
+    "arabic_number": "float",
+    "translation_version": "int",
+    "reference": { "book": "int", "hadith": "int" },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  }
+}
