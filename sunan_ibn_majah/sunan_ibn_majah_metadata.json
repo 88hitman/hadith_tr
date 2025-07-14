@@ -1,8 +1,8 @@
 {
   "collection": "Sunan Ibn Majah",
   "languages": ["ar", "en", "fr"],
-  "version": 1,
-  "last_updated": "2025-07-08T14:50:40.270Z",
+  "version": 2,
+  "last_updated": "2025-07-14T16:40:00.270Z",
   "hadiths_count": 4343,
   "last_hadith_number": 4341,
   "resources": {
@@ -21,7 +21,5 @@
     "english": "string",
     "french": "string"
   },
-  "missing": {
-    "1929": ["ar"]
-  }
+  "missing": {}
 }
