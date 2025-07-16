@@ -1,0 +1,518 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "en": "Purification (Kitab Al-Taharah)",
+      "ar": "كتاب الطهارة",
+      "fr": "La purification"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 390,
+    "first_arabic_number": 1,
+    "last_arabic_number": 390
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "en": "The Book of Lost and Found Items",
+      "ar": "كتاب اللقطة",
+      "fr": "Objets trouvés et perdus"
+    },
+    "first_hadith_number": 1701,
+    "last_hadith_number": 1720,
+    "first_arabic_number": 1701,
+    "last_arabic_number": 1720
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "en": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+      "ar": "كتاب المناسك والحج",
+      "fr": "Les rites du pèlerinage (Hajj)"
+    },
+    "first_hadith_number": 1721,
+    "last_hadith_number": 2045,
+    "first_arabic_number": 1721,
+    "last_arabic_number": 2045
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "en": "Marriage (Kitab Al-Nikah)",
+      "ar": "كتاب النكاح",
+      "fr": "Le mariage"
+    },
+    "first_hadith_number": 2046,
+    "last_hadith_number": 2174,
+    "first_arabic_number": 2046,
+    "last_arabic_number": 2174
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "en": "Divorce (Kitab Al-Talaq)",
+      "ar": "كتاب الطلاق",
+      "fr": "Le divorce"
+    },
+    "first_hadith_number": 2175,
+    "last_hadith_number": 2312,
+    "first_arabic_number": 2175,
+    "last_arabic_number": 2312
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "en": "Fasting (Kitab Al-Siyam)",
+      "ar": "كتاب الصيام",
+      "fr": "Le jeûne"
+    },
+    "first_hadith_number": 2313,
+    "last_hadith_number": 2476,
+    "first_arabic_number": 2313,
+    "last_arabic_number": 2476
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "en": "Jihad (Kitab Al-Jihad)",
+      "ar": "كتاب الجهاد",
+      "fr": "Le jihad"
+    },
+    "first_hadith_number": 2477,
+    "last_hadith_number": 2787,
+    "first_arabic_number": 2477,
+    "last_arabic_number": 2787
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "en": "Sacrifice (Kitab Al-Dahaya)",
+      "ar": "كتاب الضحايا",
+      "fr": "Le sacrifice"
+    },
+    "first_hadith_number": 2788,
+    "last_hadith_number": 2843,
+    "first_arabic_number": 2788,
+    "last_arabic_number": 2843
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "en": "Game (Kitab Al-Said)",
+      "ar": "كتاب الصيد",
+      "fr": "La chasse"
+    },
+    "first_hadith_number": 2844,
+    "last_hadith_number": 2861,
+    "first_arabic_number": 2844,
+    "last_arabic_number": 2861
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "en": "Wills (Kitab Al-Wasaya)",
+      "ar": "كتاب الوصايا",
+      "fr": "Les testaments"
+    },
+    "first_hadith_number": 2862,
+    "last_hadith_number": 2884,
+    "first_arabic_number": 2862,
+    "last_arabic_number": 2884
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "en": "Shares of Inheritance (Kitab Al-Fara'id)",
+      "ar": "كتاب الفرائض",
+      "fr": "Le partage successoral"
+    },
+    "first_hadith_number": 2885,
+    "last_hadith_number": 2927,
+    "first_arabic_number": 2885,
+    "last_arabic_number": 2927
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat)",
+      "ar": "كتاب الصلاة",
+      "fr": "La prière"
+    },
+    "first_hadith_number": 391,
+    "last_hadith_number": 1160,
+    "first_arabic_number": 391,
+    "last_arabic_number": 1160
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "en": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+      "ar": "كتاب الخراج والفيء والإمارة",
+      "fr": "Les impôts, les butins et la gouvernance"
+    },
+    "first_hadith_number": 2928,
+    "last_hadith_number": 3088,
+    "first_arabic_number": 2928,
+    "last_arabic_number": 3088
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "en": "Funerals (Kitab Al-Jana'iz)",
+      "ar": "كتاب الجنائز",
+      "fr": "Les funérailles"
+    },
+    "first_hadith_number": 3089,
+    "last_hadith_number": 3241,
+    "first_arabic_number": 3089,
+    "last_arabic_number": 3241
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "en": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+      "ar": "كتاب الأيمان والنذور",
+      "fr": "Les serments et les vœux"
+    },
+    "first_hadith_number": 3242,
+    "last_hadith_number": 3325,
+    "first_arabic_number": 3242,
+    "last_arabic_number": 3325
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "en": "Commercial Transactions (Kitab Al-Buyu)",
+      "ar": "كتاب البيوع",
+      "fr": "Les transactions commerciales"
+    },
+    "first_hadith_number": 3326,
+    "last_hadith_number": 3415,
+    "first_arabic_number": 3326,
+    "last_arabic_number": 3415
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "en": "Wages (Kitab Al-Ijarah)",
+      "ar": "كتاب الإجارة",
+      "fr": "Les salaires et locations"
+    },
+    "first_hadith_number": 3416,
+    "last_hadith_number": 3570,
+    "first_arabic_number": 3416,
+    "last_arabic_number": 3570
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "en": "The Office of the Judge (Kitab Al-Aqdiyah)",
+      "ar": "كتاب الأقضية",
+      "fr": "La magistrature (le juge)"
+    },
+    "first_hadith_number": 3571,
+    "last_hadith_number": 3640,
+    "first_arabic_number": 3571,
+    "last_arabic_number": 3640
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "en": "Knowledge (Kitab Al-Ilm)",
+      "ar": "كتاب العلم",
+      "fr": "Le savoir"
+    },
+    "first_hadith_number": 3641,
+    "last_hadith_number": 3668,
+    "first_arabic_number": 3641,
+    "last_arabic_number": 3668
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "en": "Drinks (Kitab Al-Ashribah)",
+      "ar": "كتاب الأشربة",
+      "fr": "Les boissons"
+    },
+    "first_hadith_number": 3669,
+    "last_hadith_number": 3735,
+    "first_arabic_number": 3669,
+    "last_arabic_number": 3735
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "en": "Foods (Kitab Al-At'imah)",
+      "ar": "كتاب الأطعمة",
+      "fr": "Les aliments"
+    },
+    "first_hadith_number": 3736,
+    "last_hadith_number": 3854,
+    "first_arabic_number": 3736,
+    "last_arabic_number": 3854
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "en": "Medicine (Kitab Al-Tibb)",
+      "ar": "كتاب الطب",
+      "fr": "La médecine"
+    },
+    "first_hadith_number": 3855,
+    "last_hadith_number": 3903,
+    "first_arabic_number": 3855,
+    "last_arabic_number": 3903
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "en": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+      "ar": "كتاب الاستسقاء",
+      "fr": "La prière pour la pluie (Istisqâʼ)"
+    },
+    "first_hadith_number": 1161,
+    "last_hadith_number": 1197,
+    "first_arabic_number": 1161,
+    "last_arabic_number": 1197
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "en": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+      "ar": "كتاب الكهانة والتطير",
+      "fr": "La divination et les présages"
+    },
+    "first_hadith_number": 3904,
+    "last_hadith_number": 3925,
+    "first_arabic_number": 3904,
+    "last_arabic_number": 3925
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "en": "The Book of Manumission of Slaves",
+      "ar": "كتاب العتق",
+      "fr": "L’affranchissement des esclaves"
+    },
+    "first_hadith_number": 3926,
+    "last_hadith_number": 3968,
+    "first_arabic_number": 3926,
+    "last_arabic_number": 3968
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "en": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+      "ar": "كتاب الحروف والقراءات",
+      "fr": "Les dialectes et lectures du Coran"
+    },
+    "first_hadith_number": 3969,
+    "last_hadith_number": 4008,
+    "first_arabic_number": 3969,
+    "last_arabic_number": 4008
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "en": "Hot Baths (Kitab Al-Hammam)",
+      "ar": "كتاب الحمام",
+      "fr": "Les bains publics (hammâm)"
+    },
+    "first_hadith_number": 4009,
+    "last_hadith_number": 4019,
+    "first_arabic_number": 4009,
+    "last_arabic_number": 4019
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "en": "Clothing (Kitab Al-Libas)",
+      "ar": "كتاب اللباس",
+      "fr": "Les vêtements"
+    },
+    "first_hadith_number": 4020,
+    "last_hadith_number": 4158,
+    "first_arabic_number": 4020,
+    "last_arabic_number": 4158
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "en": "Combing the Hair (Kitab Al-Tarajjul)",
+      "ar": "كتاب الترجل",
+      "fr": "Se peigner les cheveux"
+    },
+    "first_hadith_number": 4159,
+    "last_hadith_number": 4213,
+    "first_arabic_number": 4159,
+    "last_arabic_number": 4213
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "en": "Signet-Rings (Kitab Al-Khatam)",
+      "ar": "كتاب الخاتم",
+      "fr": "Les bagues-sceaux"
+    },
+    "first_hadith_number": 4214,
+    "last_hadith_number": 4239,
+    "first_arabic_number": 4214,
+    "last_arabic_number": 4239
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "en": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+      "ar": "كتاب الفتن والملاحم",
+      "fr": "Les troubles et les grandes épreuves"
+    },
+    "first_hadith_number": 4240,
+    "last_hadith_number": 4278,
+    "first_arabic_number": 4240,
+    "last_arabic_number": 4278
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "en": "The Promised Deliverer (Kitab Al-Mahdi)",
+      "ar": "كتاب المهدي",
+      "fr": "Le Mahdi attendu"
+    },
+    "first_hadith_number": 4279,
+    "last_hadith_number": 4290,
+    "first_arabic_number": 4279,
+    "last_arabic_number": 4290
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "en": "Battles (Kitab Al-Malahim)",
+      "ar": "كتاب الملاحم",
+      "fr": "Les batailles (fins des temps)"
+    },
+    "first_hadith_number": 4291,
+    "last_hadith_number": 4350,
+    "first_arabic_number": 4291,
+    "last_arabic_number": 4350
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+      "ar": "تفصيل صلاة المسافر",
+      "fr": "La prière en voyage – règles détaillées"
+    },
+    "first_hadith_number": 1198,
+    "last_hadith_number": 1249,
+    "first_arabic_number": 1198,
+    "last_arabic_number": 1249
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "en": "Prescribed Punishments (Kitab Al-Hudud)",
+      "ar": "كتاب الحدود",
+      "fr": "Les peines légales (hudûd)"
+    },
+    "first_hadith_number": 4351,
+    "last_hadith_number": 4493,
+    "first_arabic_number": 4351,
+    "last_arabic_number": 4493
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "en": "Types of Blood-Wit (Kitab Al-Diyat)",
+      "ar": "كتاب الديات",
+      "fr": "Les types de compensations (diyât)"
+    },
+    "first_hadith_number": 4494,
+    "last_hadith_number": 4595,
+    "first_arabic_number": 4494,
+    "last_arabic_number": 4595
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "en": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+      "ar": "كتاب السنة",
+      "fr": "La conduite prophétique (sounnah)"
+    },
+    "first_hadith_number": 4596,
+    "last_hadith_number": 4772,
+    "first_arabic_number": 4596,
+    "last_arabic_number": 4772
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "en": "General Behavior (Kitab Al-Adab)",
+      "ar": "كتاب الأدب",
+      "fr": "Les bonnes manières"
+    },
+    "first_hadith_number": 4773,
+    "last_hadith_number": 5274,
+    "first_arabic_number": 4773,
+    "last_arabic_number": 5274
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+      "ar": "صلاة التطوع",
+      "fr": "Les prières surérogatoires"
+    },
+    "first_hadith_number": 1250,
+    "last_hadith_number": 1370,
+    "first_arabic_number": 1250,
+    "last_arabic_number": 1370
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+      "ar": "تفصيل أحكام رمضان",
+      "fr": "Règles sur le Ramadan"
+    },
+    "first_hadith_number": 1371,
+    "last_hadith_number": 1400,
+    "first_arabic_number": 1371,
+    "last_arabic_number": 1400
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+      "ar": "سجود التلاوة",
+      "fr": "La prosternation lors de la récitation du Coran"
+    },
+    "first_hadith_number": 1401,
+    "last_hadith_number": 1415,
+    "first_arabic_number": 1401,
+    "last_arabic_number": 1415
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "en": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+      "ar": "تفصيل أحكام الوتر",
+      "fr": "Règles sur la prière du Witr"
+    },
+    "first_hadith_number": 1416,
+    "last_hadith_number": 1555,
+    "first_arabic_number": 1416,
+    "last_arabic_number": 1555
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "en": "Zakat (Kitab Al-Zakat)",
+      "ar": "كتاب الزكاة",
+      "fr": "La Zakât"
+    },
+    "first_hadith_number": 1556,
+    "last_hadith_number": 1700,
+    "first_arabic_number": 1556,
+    "last_arabic_number": 1700
+  }
+]

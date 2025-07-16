@@ -1,0 +1,24 @@
+{
+  "collection": "Sunan Abu Dawud",
+  "languages": ["ar", "en", "fr"],
+  "version": 1,
+  "last_updated": "2025-07-16T15:40:07.974Z",
+  "hadiths_count": 5274,
+  "last_hadith_number": 5274,
+  "resources": {
+    "hadiths": "sunan_abu_dawud_hadiths.jsonl",
+    "sections": "sunan_abu_dawud_sections.json"
+  },
+  "source": "https://github.com/88hitman/hadith_tr",
+  "contact": "jannaty.app@gmail.com",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "float",
+    "arabic_number": "float",
+    "translation_version": "int",
+    "reference": { "book": "int", "hadith": "int" },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  }
+}
