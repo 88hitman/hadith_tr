@@ -1,6 +1,8 @@
 
 
 ```markdown
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
 ````
 # Hadith Collections — Multi-Language JSONL Dataset
 
