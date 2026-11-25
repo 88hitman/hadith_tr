@@ -1,8 +1,8 @@
 {
   "collection": "Sunan Ibn Majah",
   "languages": ["ar", "en", "fr"],
-  "version": 2,
-  "last_updated": "2025-07-14T16:40:00.270Z",
+  "version": 3,
+  "last_updated": "2026-11-23T14:16:34Z",
   "hadiths_count": 4343,
   "last_hadith_number": 4341,
   "resources": {

@@ -1,0 +1,37 @@
+{
+  "collection": "Hisn al-Muslim",
+  "title": {
+    "ar": "حصن المسلم",
+    "en": "Fortress of the Muslim",
+    "fr": "La citadelle du musulman"
+  },
+  "languages": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "version": 1,
+  "last_updated": "2026-11-23T10:43:57Z",
+  "hadiths_count": 267,
+  "last_hadith_number": 267,
+  "resources": {
+    "hadiths": "hisn_hadiths.jsonl",
+    "sections": "hisn_sections.json"
+  },
+  "origin": "hisnmuslim.com (API) ; FR : traduction Claude",
+  "source": "https://github.com/88hitman/hadith_tr",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "int",
+    "arabic_number": "int",
+    "translation_version": "int",
+    "reference": {
+      "book": "int",
+      "hadith": "int"
+    },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  },
+  "contact": "jannaty.app@gmail.com"
+}

@@ -1,0 +1,37 @@
+{
+  "collection": "Muwatta Malik",
+  "title": {
+    "ar": "موطأ مالك",
+    "en": "Muwatta Malik",
+    "fr": "Le Muwatta de Malik"
+  },
+  "languages": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "version": 1,
+  "last_updated": "2026-11-25T14:23:04Z",
+  "hadiths_count": 1985,
+  "last_hadith_number": 1985,
+  "resources": {
+    "hadiths": "malik_hadiths.jsonl",
+    "sections": "malik_sections.json"
+  },
+  "origin": "AR/EN : sunnah.com (via github.com/CheeseWithSauce/HadithsJSONFormat), compléments fawazahmed0 ; FR : traduction sol 6.2-high contrôlée par Claude",
+  "source": "https://github.com/88hitman/hadith_tr",
+  "format": "jsonl",
+  "line_format": {
+    "hadith_number": "int",
+    "arabic_number": "int",
+    "translation_version": "int",
+    "reference": {
+      "book": "int",
+      "hadith": "int"
+    },
+    "arabic": "string",
+    "english": "string",
+    "french": "string"
+  },
+  "contact": "jannaty.app@gmail.com"
+}

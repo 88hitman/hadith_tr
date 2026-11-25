@@ -1,0 +1,194 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "ar": "كتاب الطهارة",
+      "en": "The Book of Purification",
+      "fr": "Le livre de la purification"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 179,
+    "first_arabic_number": 1,
+    "last_arabic_number": 150
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "ar": "كتاب الصلاة",
+      "en": "The Book of Prayer",
+      "fr": "Le livre de la prière"
+    },
+    "first_hadith_number": 180,
+    "last_hadith_number": 640,
+    "first_arabic_number": 163,
+    "last_arabic_number": 533
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "ar": "كتاب الجنائز",
+      "en": "Funerals",
+      "fr": "Le livre des funérailles"
+    },
+    "first_hadith_number": 641,
+    "last_hadith_number": 706,
+    "first_arabic_number": 532,
+    "last_arabic_number": 597
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "ar": "كتاب الزكاة",
+      "en": "The Book of Zakah",
+      "fr": "Le livre de la zakat"
+    },
+    "first_hadith_number": 707,
+    "last_hadith_number": 757,
+    "first_arabic_number": 598,
+    "last_arabic_number": 649
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "ar": "كتاب الصيام",
+      "en": "Fasting",
+      "fr": "Le livre du jeûne"
+    },
+    "first_hadith_number": 758,
+    "last_hadith_number": 815,
+    "first_arabic_number": 650,
+    "last_arabic_number": 707
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "ar": "كتاب الحج",
+      "en": "Hajj",
+      "fr": "Le livre du pèlerinage"
+    },
+    "first_hadith_number": 816,
+    "last_hadith_number": 889,
+    "first_arabic_number": 708,
+    "last_arabic_number": 782
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "ar": "كتاب البيوع",
+      "en": "Business Transactions",
+      "fr": "Le livre des ventes"
+    },
+    "first_hadith_number": 890,
+    "last_hadith_number": 1122,
+    "first_arabic_number": 782,
+    "last_arabic_number": 966
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "ar": "كتاب النكاح",
+      "en": "Marriage",
+      "fr": "Le livre du mariage"
+    },
+    "first_hadith_number": 1123,
+    "last_hadith_number": 1344,
+    "first_arabic_number": 967,
+    "last_arabic_number": 1157
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "ar": "كتاب الجنايات",
+      "en": "Crimes (Qisas or Retaliation)",
+      "fr": "Le livre des crimes"
+    },
+    "first_hadith_number": 1345,
+    "last_hadith_number": 1391,
+    "first_arabic_number": 1169,
+    "last_arabic_number": 1215
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "ar": "كتاب الحدود",
+      "en": "Hudud",
+      "fr": "Le livre des peines légales"
+    },
+    "first_hadith_number": 1392,
+    "last_hadith_number": 1448,
+    "first_arabic_number": 1205,
+    "last_arabic_number": 1258
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "ar": "كتاب الجهاد",
+      "en": "Jihad",
+      "fr": "Le livre du jihad"
+    },
+    "first_hadith_number": 1449,
+    "last_hadith_number": 1511,
+    "first_arabic_number": 1271,
+    "last_arabic_number": 1332
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "ar": "كتاب الأطعمة",
+      "en": "Food",
+      "fr": "Le livre des aliments"
+    },
+    "first_hadith_number": 1512,
+    "last_hadith_number": 1555,
+    "first_arabic_number": 1319,
+    "last_arabic_number": 1359
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "ar": "كتاب الأيمان والنذور",
+      "en": "Oaths and Vows",
+      "fr": "Le livre des serments et des vœux"
+    },
+    "first_hadith_number": 1556,
+    "last_hadith_number": 1578,
+    "first_arabic_number": 1374,
+    "last_arabic_number": 1396
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "ar": "كتاب القضاء",
+      "en": "Judgments",
+      "fr": "Le livre de la justice"
+    },
+    "first_hadith_number": 1579,
+    "last_hadith_number": 1614,
+    "first_arabic_number": 1397,
+    "last_arabic_number": 1432
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "ar": "كتاب العتق",
+      "en": "Emancipation",
+      "fr": "Le livre de l'affranchissement"
+    },
+    "first_hadith_number": 1615,
+    "last_hadith_number": 1634,
+    "first_arabic_number": 1418,
+    "last_arabic_number": 1436
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "ar": "كتاب الجامع",
+      "en": "The Comprehensive Book",
+      "fr": "Le livre récapitulatif"
+    },
+    "first_hadith_number": 1635,
+    "last_hadith_number": 1767,
+    "first_arabic_number": 1437,
+    "last_arabic_number": 1568
+  }
+]

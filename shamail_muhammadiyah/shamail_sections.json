@@ -1,0 +1,686 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "ar": "باب ما جاء في خلق رسول الله صلى الله عليه وسلم",
+      "en": "The Noble Features Of Rasoolullah",
+      "fr": "L'apparence noble du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 15,
+    "first_arabic_number": 1,
+    "last_arabic_number": 15
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "ar": "باب ما جاء في خاتم النبوة",
+      "en": "Seal Of Nubuwwah (Prophethood) Of Rasoolullah",
+      "fr": "Le sceau de la prophétie"
+    },
+    "first_hadith_number": 16,
+    "last_hadith_number": 23,
+    "first_arabic_number": 16,
+    "last_arabic_number": 23
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "ar": "ما جاء في شعر رسول الله صلى الله عليه وسلم",
+      "en": "The Mubarak Hair Of Rasoolullah -باب",
+      "fr": "La chevelure bénie du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 24,
+    "last_hadith_number": 31,
+    "first_arabic_number": 24,
+    "last_arabic_number": 31
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "ar": "باب ما جاء في ترجل رسول الله صلى الله عليه وسلم",
+      "en": "The Combing Of The Hair Of Rasoolullah",
+      "fr": "Le peignage des cheveux du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 32,
+    "last_hadith_number": 36,
+    "first_arabic_number": 32,
+    "last_arabic_number": 36
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "ar": "باب ما جاء في شيب رسول الله صلى الله عليه وسلم",
+      "en": "Appearing Of The White Hair Of Rasoolullah",
+      "fr": "L'apparition de cheveux blancs chez le Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 37,
+    "last_hadith_number": 44,
+    "first_arabic_number": 37,
+    "last_arabic_number": 44
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "ar": "باب ما جاء في خضاب رسول الله صلى الله عليه وسلم",
+      "en": "Rasoolullah Using a Dye",
+      "fr": "La teinture des cheveux du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 45,
+    "last_hadith_number": 49,
+    "first_arabic_number": 45,
+    "last_arabic_number": 49
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "ar": "باب ما جاء في كُحل رسول الله صلى الله عليه وسلم",
+      "en": "Kuhl Of Rasoolullah",
+      "fr": "Le khôl du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 50,
+    "last_hadith_number": 54,
+    "first_arabic_number": 50,
+    "last_arabic_number": 54
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "ar": "باب ما جاء في لباس رسول الله صلى الله عليه وسلم",
+      "en": "The Dressing Of Rasoolullah",
+      "fr": "Les vêtements du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 55,
+    "last_hadith_number": 71,
+    "first_arabic_number": 55,
+    "last_arabic_number": 71
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "ar": "باب ما جاء في خف رسول الله صلى الله عليه وسلم",
+      "en": "The Khuff (Leather Socks) Of Rasoolullah",
+      "fr": "Les chaussettes de cuir (khuff) du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 72,
+    "last_hadith_number": 73,
+    "first_arabic_number": 72,
+    "last_arabic_number": 73
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "ar": "باب ماجاء في نعل رسول الله صلى الله عليه وسلم",
+      "en": "The Shoes Of Rasoolullah",
+      "fr": "Les sandales du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 74,
+    "last_hadith_number": 85,
+    "first_arabic_number": 74,
+    "last_arabic_number": 85
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "ar": "باب ما جاء في ذكر خاتم رسول الله صلى الله عليه وسلم",
+      "en": "The Mubarak Ring Of Rasoolullah",
+      "fr": "La bague bénie du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 86,
+    "last_hadith_number": 93,
+    "first_arabic_number": 86,
+    "last_arabic_number": 93
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "ar": "باب ماجاء في تختم رسول الله صلى الله عليه وسلم",
+      "en": "Stating That Rasoolullah Wore The Ring On His Right Hand",
+      "fr": "Le Messager d'Allah (ﷺ) portait sa bague à la main droite"
+    },
+    "first_hadith_number": 94,
+    "last_hadith_number": 103,
+    "first_arabic_number": 94,
+    "last_arabic_number": 103
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "ar": "باب ماجاء في صفة سَيْفِ رَسُولِ اللهِ صلى الله عليه وسلم",
+      "en": "The Sword Of Rasoolullah",
+      "fr": "Le sabre du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 104,
+    "last_hadith_number": 107,
+    "first_arabic_number": 104,
+    "last_arabic_number": 107
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "ar": "باب ماجاء في صفة درع رَسُولِ اللهِصلى الله عليه وسلم",
+      "en": "The Armor Of Rasoolullah",
+      "fr": "La cotte de mailles du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 109,
+    "last_hadith_number": 110,
+    "first_arabic_number": 109,
+    "last_arabic_number": 110
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "ar": "باب ما جاء في صفة مغفر رسول الله صلى الله عليه وسلم",
+      "en": "The Helmet Of Rasoolullah",
+      "fr": "Le casque du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 111,
+    "last_hadith_number": 112,
+    "first_arabic_number": 111,
+    "last_arabic_number": 112
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "ar": "باب ما جاء في عمامة رسول الله صلى الله عليه وسلم",
+      "en": "The Turban Of Rasoolullah",
+      "fr": "Le turban du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 113,
+    "last_hadith_number": 117,
+    "first_arabic_number": 113,
+    "last_arabic_number": 117
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "ar": "باب ما جاء في صفة إزار رسول الله صلى الله عليه وسلم",
+      "en": "The Lungi Of Rasoolullah",
+      "fr": "Le pagne du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 118,
+    "last_hadith_number": 121,
+    "first_arabic_number": 118,
+    "last_arabic_number": 121
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "ar": "باب ما جاء في مشية رسول الله صلى الله عليه وسلم",
+      "en": "The Walking Of Rasoolullah",
+      "fr": "La démarche du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 122,
+    "last_hadith_number": 124,
+    "first_arabic_number": 122,
+    "last_arabic_number": 124
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "ar": "باب ما جاء في تقنع رسول الله صلى الله عليه وسلم",
+      "en": "The Qinaa Of Rasoolullah",
+      "fr": "Le voile de tête (qinâ') du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 125,
+    "last_hadith_number": 125,
+    "first_arabic_number": 125,
+    "last_arabic_number": 125
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "ar": "باب ما جاء في جلسته صلى الله عليه وسلم",
+      "en": "The Sitting Of Rasoolullah",
+      "fr": "La façon de s'asseoir du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 126,
+    "last_hadith_number": 128,
+    "first_arabic_number": 126,
+    "last_arabic_number": 128
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "ar": "باب ما جاء في تكأة رسول الله صلى الله عليه وسلم",
+      "en": "The Pillow Of Rasoolullah",
+      "fr": "L'oreiller du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 129,
+    "last_hadith_number": 133,
+    "first_arabic_number": 129,
+    "last_arabic_number": 133
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "ar": "باب ما جاء في اتكاء رسول الله صلى الله عليه وسلم",
+      "en": "Rasoolullah Leaning On Something Other Than a Pillow",
+      "fr": "Le Messager d'Allah (ﷺ) s'appuyant sur autre chose qu'un oreiller"
+    },
+    "first_hadith_number": 134,
+    "last_hadith_number": 135,
+    "first_arabic_number": 134,
+    "last_arabic_number": 135
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "ar": "باب ما جاء في أكل رسول الله صلى الله عليه وسلم",
+      "en": "Description Of The Eating Of Rasoolullah",
+      "fr": "La façon de manger du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 136,
+    "last_hadith_number": 141,
+    "first_arabic_number": 136,
+    "last_arabic_number": 141
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "ar": "باب ما جاء في صفة خبز رسول الله صلى الله عليه وسلم",
+      "en": "The Bread Of Rasoolullah",
+      "fr": "Le pain du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 142,
+    "last_hadith_number": 149,
+    "first_arabic_number": 142,
+    "last_arabic_number": 149
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "ar": "ما جاء في إدام رسول الله صلى الله عليه وسلم",
+      "en": "What Rasoolullah Would Eat with Bread",
+      "fr": "Ce que le Messager d'Allah (ﷺ) mangeait avec le pain"
+    },
+    "first_hadith_number": 150,
+    "last_hadith_number": 183,
+    "first_arabic_number": 150,
+    "last_arabic_number": 183
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "ar": "باب ما جاء في صفة وضوء رسول الله صلى الله عليه وسلم عند الطعام",
+      "en": "Rasoolullah Performing Wudu At The Time Of Eating",
+      "fr": "Les ablutions du Messager d'Allah (ﷺ) au moment du repas"
+    },
+    "first_hadith_number": 184,
+    "last_hadith_number": 186,
+    "first_arabic_number": 184,
+    "last_arabic_number": 186
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "ar": "باب ما جاء في قول رسول الله صلى الله عليه وسلم قبل الطعام وعند الفراغ منه",
+      "en": "The Words That Of Rasoolullah Said Before and After Eating",
+      "fr": "Les paroles du Messager d'Allah (ﷺ) avant et après le repas"
+    },
+    "first_hadith_number": 187,
+    "last_hadith_number": 193,
+    "first_arabic_number": 187,
+    "last_arabic_number": 193
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "ar": "باب ما جاء في قدح رسول الله صلى الله عليه وسلم",
+      "en": "The Cup Of Rasoolullah",
+      "fr": "La coupe du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 194,
+    "last_hadith_number": 195,
+    "first_arabic_number": 194,
+    "last_arabic_number": 195
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "ar": "باب ما جاء في صفة فاكهة رسول الله صلى الله عليه وسلم",
+      "en": "The Fruits Eaten By Rasoolullah",
+      "fr": "Les fruits que mangeait le Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 196,
+    "last_hadith_number": 202,
+    "first_arabic_number": 196,
+    "last_arabic_number": 202
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "ar": "باب ما جاء في صفة شراب رسول الله صلى الله عليه وسلم",
+      "en": "Description Of The Things Rasoolullah Drank",
+      "fr": "Ce que buvait le Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 203,
+    "last_hadith_number": 204,
+    "first_arabic_number": 203,
+    "last_arabic_number": 204
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "ar": "باب ما جاء في شرب رسول الله صلى الله عليه وسلم",
+      "en": "Hadith Describing The Manner Rasoolullah Drank",
+      "fr": "La façon de boire du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 205,
+    "last_hadith_number": 214,
+    "first_arabic_number": 205,
+    "last_arabic_number": 214
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "ar": "باب ما جاء في تعطررسول الله صلى الله عليه وسلم",
+      "en": "Rasoolullah Using 'Itr",
+      "fr": "Le parfum du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 215,
+    "last_hadith_number": 221,
+    "first_arabic_number": 215,
+    "last_arabic_number": 221
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "ar": "باب كيف كان كلام رسول الله صلى الله عليه وسلم",
+      "en": "The Speech Of rasoolullah",
+      "fr": "La façon de parler du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 222,
+    "last_hadith_number": 224,
+    "first_arabic_number": 222,
+    "last_arabic_number": 224
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "ar": "باب ما جاء في ضحك رسول الله صلى الله عليه وسلم",
+      "en": "The Laughing Of Rasoolullah",
+      "fr": "Le rire du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 225,
+    "last_hadith_number": 233,
+    "first_arabic_number": 225,
+    "last_arabic_number": 233
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "ar": "باب ما جاء في صفة مزاح رسول الله صلى الله عليه وسلم",
+      "en": "Description Of The Joking Of Rasoolullah",
+      "fr": "Les plaisanteries du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 234,
+    "last_hadith_number": 239,
+    "first_arabic_number": 234,
+    "last_arabic_number": 239
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "ar": "باب ما جاء في صفة كلام رسول الله صلى الله عليه وسلم في الشعر",
+      "en": "Description Of The Saying Of Rasoolullah On Poetry",
+      "fr": "Ce que le Messager d'Allah (ﷺ) disait de la poésie"
+    },
+    "first_hadith_number": 240,
+    "last_hadith_number": 249,
+    "first_arabic_number": 240,
+    "last_arabic_number": 249
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "ar": "باب ما جاء في كلام رسول الله صلى الله عليه وسلم في السمر",
+      "en": "Story Telling Of Rasoolullah At Night",
+      "fr": "Les récits du Messager d'Allah (ﷺ) le soir"
+    },
+    "first_hadith_number": 251,
+    "last_hadith_number": 251,
+    "first_arabic_number": 251,
+    "last_arabic_number": 251
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "ar": "حديث أم زرع",
+      "en": "Hadith of Umm Zar`",
+      "fr": "Le hadith d'Umm Zar'"
+    },
+    "first_hadith_number": 252,
+    "last_hadith_number": 252,
+    "first_arabic_number": 252,
+    "last_arabic_number": 252
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "ar": "باب في صفة نوم رسول الله صلى الله عليه وسلم في السمر",
+      "en": "The Sleeping Of Rasoolullah",
+      "fr": "Le sommeil du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 253,
+    "last_hadith_number": 259,
+    "first_arabic_number": 253,
+    "last_arabic_number": 259
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "ar": "باب ما جاء في عبادة النبي صلى الله عليه وسلم",
+      "en": "Worship And Devotion Of Rasoolullah",
+      "fr": "L'adoration du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 260,
+    "last_hadith_number": 286,
+    "first_arabic_number": 260,
+    "last_arabic_number": 286
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "ar": "باب صلاة الضحى",
+      "en": "Salaatut Duha (Chaast Prayers)",
+      "fr": "La prière du matin (Duha)"
+    },
+    "first_hadith_number": 287,
+    "last_hadith_number": 295,
+    "first_arabic_number": 287,
+    "last_arabic_number": 295
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "ar": "باب صلاة التطوع في البيت",
+      "en": "Sayyidina Rasoolullah Performing Nawaafil At Home",
+      "fr": "Les prières surérogatoires du Messager d'Allah (ﷺ) à la maison"
+    },
+    "first_hadith_number": 296,
+    "last_hadith_number": 296,
+    "first_arabic_number": 296,
+    "last_arabic_number": 296
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "ar": "باب ماجاء في صوم رسول الله صلى الله عليه وسلم",
+      "en": "The Fasting Of Sayyidina Rasoolullah",
+      "fr": "Le jeûne du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 297,
+    "last_hadith_number": 312,
+    "first_arabic_number": 297,
+    "last_arabic_number": 312
+  },
+  {
+    "section_number": 44,
+    "name": {
+      "ar": "باب ماجاء في قراءة رسول الله صلى الله عليه وسلم",
+      "en": "The Recital Of Sayyidina Rasoolullah",
+      "fr": "La récitation du Coran par le Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 313,
+    "last_hadith_number": 320,
+    "first_arabic_number": 313,
+    "last_arabic_number": 320
+  },
+  {
+    "section_number": 45,
+    "name": {
+      "ar": "باب ماجاء في بكاء رسول الله صلى الله عليه وسلم",
+      "en": "The Weeping Of Sayyidina Rasoolullah",
+      "fr": "Les pleurs du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 321,
+    "last_hadith_number": 326,
+    "first_arabic_number": 321,
+    "last_arabic_number": 326
+  },
+  {
+    "section_number": 46,
+    "name": {
+      "ar": "باب ماجاء في فراش رسول الله صلى الله عليه وسلم",
+      "en": "Narrations Of The Bed Of Sayyidina Rasoolullah",
+      "fr": "Le lit du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 327,
+    "last_hadith_number": 328,
+    "first_arabic_number": 327,
+    "last_arabic_number": 328
+  },
+  {
+    "section_number": 47,
+    "name": {
+      "ar": "باب ماجاء في تواضع رسول الله صلى الله عليه وسلم",
+      "en": "The Humbleness Of Sayyidina Rasoolullah",
+      "fr": "L'humilité du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 329,
+    "last_hadith_number": 341,
+    "first_arabic_number": 329,
+    "last_arabic_number": 341
+  },
+  {
+    "section_number": 48,
+    "name": {
+      "ar": "باب ماجاء في خلق رسول الله صلى الله عليه وسلم",
+      "en": "Noble Character And Habits Of Sayyidina Rasoolullah",
+      "fr": "Le noble caractère du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 342,
+    "last_hadith_number": 356,
+    "first_arabic_number": 342,
+    "last_arabic_number": 356
+  },
+  {
+    "section_number": 49,
+    "name": {
+      "ar": "باب ماجاء في حياء رسول الله صلى الله عليه وسلم",
+      "en": "Modesty Of Sayyidina Rasoolullah",
+      "fr": "La pudeur du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 357,
+    "last_hadith_number": 358,
+    "first_arabic_number": 357,
+    "last_arabic_number": 358
+  },
+  {
+    "section_number": 50,
+    "name": {
+      "ar": "باب ماجاء في حجامة رسول الله صلى الله عليه وسلم",
+      "en": "Hajaamah (Cupping-Cautering) Of Sayyidina Rasoolullah",
+      "fr": "La saignée (hijama) du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 359,
+    "last_hadith_number": 364,
+    "first_arabic_number": 359,
+    "last_arabic_number": 364
+  },
+  {
+    "section_number": 51,
+    "name": {
+      "ar": "باب ماجاء في أسماء رسول الله صلى الله عليه وسلم",
+      "en": "The Names Of Sayyidina Rasoolullah",
+      "fr": "Les noms du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 365,
+    "last_hadith_number": 366,
+    "first_arabic_number": 365,
+    "last_arabic_number": 366
+  },
+  {
+    "section_number": 52,
+    "name": {
+      "ar": "",
+      "en": "8b The Standard of Living of Rasoolullah باب ماجاء في عيش رسول الله صلى الله عليه وسلم",
+      "fr": "Le niveau de vie du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 368,
+    "last_hadith_number": 369,
+    "first_arabic_number": 368,
+    "last_arabic_number": 369
+  },
+  {
+    "section_number": 53,
+    "name": {
+      "ar": "باب ماجاء في عيش رسول الله صلى الله عليه وسلم",
+      "en": "The Living Of Sayyidina Rasoolullah",
+      "fr": "La vie quotidienne du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 370,
+    "last_hadith_number": 378,
+    "first_arabic_number": 370,
+    "last_arabic_number": 378
+  },
+  {
+    "section_number": 54,
+    "name": {
+      "ar": "باب ماجاء في سن رسول الله صلى الله عليه وسلم",
+      "en": "The Noble Age Of Sayyidina Rasoolullah",
+      "fr": "L'âge du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 379,
+    "last_hadith_number": 384,
+    "first_arabic_number": 379,
+    "last_arabic_number": 384
+  },
+  {
+    "section_number": 55,
+    "name": {
+      "ar": "باب ماجاء في وفاة رسول الله صلى الله عليه وسلم",
+      "en": "The Death Of Sayyidina Rasoolullah",
+      "fr": "La mort du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 386,
+    "last_hadith_number": 399,
+    "first_arabic_number": 386,
+    "last_arabic_number": 399
+  },
+  {
+    "section_number": 56,
+    "name": {
+      "ar": "باب ماجاء في ميراث رسول الله صلى الله عليه وسلم",
+      "en": "The Legacy Of Sayyidina Rasoolullah",
+      "fr": "L'héritage du Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 400,
+    "last_hadith_number": 406,
+    "first_arabic_number": 400,
+    "last_arabic_number": 406
+  },
+  {
+    "section_number": 57,
+    "name": {
+      "ar": "باب ماجاء في رؤية رسول الله صلى الله عليه وسلم",
+      "en": "The Seeing Of Rasoolullah In a Dream",
+      "fr": "Voir le Messager d'Allah (ﷺ) en rêve"
+    },
+    "first_hadith_number": 407,
+    "last_hadith_number": 417,
+    "first_arabic_number": 407,
+    "last_arabic_number": 417
+  }
+]

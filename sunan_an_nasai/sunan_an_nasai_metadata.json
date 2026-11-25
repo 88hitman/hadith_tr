@@ -1,9 +1,9 @@
 {
   "collection": "Sunan an Nasai",
   "languages": ["ar", "en", "fr"],
-  "version": 1,
-  "last_updated": "2025-07-08T14:17:09.955Z",
-  "hadiths_count": 5691,
+  "version": 2,
+  "last_updated": "2026-11-23T14:16:34Z",
+  "hadiths_count": 5770,
   "last_hadith_number": 5758,
   "resources": {
     "hadiths": "sunan_an_nasai_hadiths.jsonl",

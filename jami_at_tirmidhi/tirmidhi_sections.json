@@ -1,0 +1,590 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "ar": "كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Purification",
+      "fr": "Le livre de la purification"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 148,
+    "first_arabic_number": 1,
+    "last_arabic_number": 148
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "ar": "كتاب الصلاة",
+      "en": "The Book on Salat (Prayer)",
+      "fr": "Le livre de la prière"
+    },
+    "first_hadith_number": 149,
+    "last_hadith_number": 452,
+    "first_arabic_number": 149,
+    "last_arabic_number": 451
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "ar": "أَبْوَابُ الْوِتْرِ",
+      "en": "The Book on Al-Witr",
+      "fr": "Le livre du witr"
+    },
+    "first_hadith_number": 453,
+    "last_hadith_number": 487,
+    "first_arabic_number": 452,
+    "last_arabic_number": 487
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "ar": "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "en": "The Book on the Day of Friday",
+      "fr": "Le livre du vendredi"
+    },
+    "first_hadith_number": 488,
+    "last_hadith_number": 529,
+    "first_arabic_number": 488,
+    "last_arabic_number": 529
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "ar": "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "en": "The Book on the Two Eids",
+      "fr": "Le livre des deux fêtes"
+    },
+    "first_hadith_number": 530,
+    "last_hadith_number": 543,
+    "first_arabic_number": 530,
+    "last_arabic_number": 543
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "ar": "أَبْوَابُ السَّفَرِ",
+      "en": "The Book on Traveling",
+      "fr": "Le livre du voyage"
+    },
+    "first_hadith_number": 544,
+    "last_hadith_number": 616,
+    "first_arabic_number": 544,
+    "last_arabic_number": 616
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "ar": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Zakat",
+      "fr": "Le livre de la zakat"
+    },
+    "first_hadith_number": 617,
+    "last_hadith_number": 681,
+    "first_arabic_number": 617,
+    "last_arabic_number": 681
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "ar": "كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Fasting",
+      "fr": "Le livre du jeûne"
+    },
+    "first_hadith_number": 682,
+    "last_hadith_number": 808,
+    "first_arabic_number": 682,
+    "last_arabic_number": 808
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "ar": "كتاب الحج عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Hajj",
+      "fr": "Le livre du pèlerinage"
+    },
+    "first_hadith_number": 809,
+    "last_hadith_number": 966,
+    "first_arabic_number": 809,
+    "last_arabic_number": 964
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "ar": "كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Jana''iz (Funerals)",
+      "fr": "Le livre des funérailles"
+    },
+    "first_hadith_number": 967,
+    "last_hadith_number": 1081,
+    "first_arabic_number": 965,
+    "last_arabic_number": 1079
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "ar": "كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Marriage",
+      "fr": "Le livre du mariage"
+    },
+    "first_hadith_number": 1082,
+    "last_hadith_number": 1148,
+    "first_arabic_number": 1080,
+    "last_arabic_number": 1145
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "ar": "كتاب الرضاع",
+      "en": "The Book on Suckling",
+      "fr": "Le livre de l'allaitement"
+    },
+    "first_hadith_number": 1149,
+    "last_hadith_number": 1177,
+    "first_arabic_number": 1146,
+    "last_arabic_number": 1174
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "ar": "كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Divorce and Li'an",
+      "fr": "Le livre du divorce et du li'an"
+    },
+    "first_hadith_number": 1178,
+    "last_hadith_number": 1208,
+    "first_arabic_number": 1175,
+    "last_arabic_number": 1204
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "ar": "كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Business",
+      "fr": "Le livre des ventes"
+    },
+    "first_hadith_number": 1209,
+    "last_hadith_number": 1333,
+    "first_arabic_number": 1205,
+    "last_arabic_number": 1321
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "ar": "كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+      "en": "The Chapters On Judgements From The Messenger of Allah",
+      "fr": "Le livre des jugements"
+    },
+    "first_hadith_number": 1334,
+    "last_hadith_number": 1399,
+    "first_arabic_number": 1322,
+    "last_arabic_number": 1385
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "ar": "كتاب الديات عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Blood Money",
+      "fr": "Le livre du prix du sang"
+    },
+    "first_hadith_number": 1400,
+    "last_hadith_number": 1438,
+    "first_arabic_number": 1386,
+    "last_arabic_number": 1422
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "ar": "كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Legal Punishments (Al-Hudud)",
+      "fr": "Le livre des peines légales"
+    },
+    "first_hadith_number": 1439,
+    "last_hadith_number": 1485,
+    "first_arabic_number": 1423,
+    "last_arabic_number": 1463
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "ar": "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Hunting",
+      "fr": "Le livre de la chasse et de l'abattage"
+    },
+    "first_hadith_number": 1486,
+    "last_hadith_number": 1521,
+    "first_arabic_number": 1464,
+    "last_arabic_number": 1492
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "ar": "كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Sacrifices",
+      "fr": "Le livre des sacrifices"
+    },
+    "first_hadith_number": 1522,
+    "last_hadith_number": 1557,
+    "first_arabic_number": 1493,
+    "last_arabic_number": 1523
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "ar": "كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Vows and Oaths",
+      "fr": "Le livre des vœux et des serments"
+    },
+    "first_hadith_number": 1558,
+    "last_hadith_number": 1583,
+    "first_arabic_number": 1524,
+    "last_arabic_number": 1547
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "ar": "كتاب السير عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Military Expeditions",
+      "fr": "Le livre des expéditions militaires"
+    },
+    "first_hadith_number": 1584,
+    "last_hadith_number": 1666,
+    "first_arabic_number": 1548,
+    "last_arabic_number": 1618
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "ar": "كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Virtues of Jihad",
+      "fr": "Le livre des mérites du jihad"
+    },
+    "first_hadith_number": 1667,
+    "last_hadith_number": 1718,
+    "first_arabic_number": 1619,
+    "last_arabic_number": 1669
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "ar": "كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Jihad",
+      "fr": "Le livre du jihad"
+    },
+    "first_hadith_number": 1719,
+    "last_hadith_number": 1771,
+    "first_arabic_number": 1670,
+    "last_arabic_number": 1719
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "ar": "كتاب اللباس",
+      "en": "The Book on Clothing",
+      "fr": "Le livre du vêtement"
+    },
+    "first_hadith_number": 1772,
+    "last_hadith_number": 1847,
+    "first_arabic_number": 1720,
+    "last_arabic_number": 1787
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "ar": "كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Food",
+      "fr": "Le livre des aliments"
+    },
+    "first_hadith_number": 1848,
+    "last_hadith_number": 1925,
+    "first_arabic_number": 1788,
+    "last_arabic_number": 1860
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "ar": "كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Drinks",
+      "fr": "Le livre des boissons"
+    },
+    "first_hadith_number": 1926,
+    "last_hadith_number": 1962,
+    "first_arabic_number": 1861,
+    "last_arabic_number": 1896
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "ar": "كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+      "fr": "Le livre de la bonté et des liens de parenté"
+    },
+    "first_hadith_number": 1963,
+    "last_hadith_number": 2103,
+    "first_arabic_number": 1897,
+    "last_arabic_number": 2035
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "ar": "كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+      "en": "Chapters on Medicine",
+      "fr": "Le livre de la médecine"
+    },
+    "first_hadith_number": 2104,
+    "last_hadith_number": 2156,
+    "first_arabic_number": 2036,
+    "last_arabic_number": 2088
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "ar": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Inheritance",
+      "fr": "Le livre des parts d'héritage"
+    },
+    "first_hadith_number": 2157,
+    "last_hadith_number": 2182,
+    "first_arabic_number": 2090,
+    "last_arabic_number": 2115
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "ar": "كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Wasaya (Wills and Testament)",
+      "fr": "Le livre des testaments"
+    },
+    "first_hadith_number": 2183,
+    "last_hadith_number": 2191,
+    "first_arabic_number": 2116,
+    "last_arabic_number": 2124
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "ar": "كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Wala' And Gifts",
+      "fr": "Le livre du patronage et du don"
+    },
+    "first_hadith_number": 2192,
+    "last_hadith_number": 2200,
+    "first_arabic_number": 2125,
+    "last_arabic_number": 2132
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "ar": "كتاب القدر عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Al-Qadar",
+      "fr": "Le livre du destin"
+    },
+    "first_hadith_number": 2201,
+    "last_hadith_number": 2225,
+    "first_arabic_number": 2133,
+    "last_arabic_number": 2157
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "ar": "كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Al-Fitan",
+      "fr": "Le livre des épreuves"
+    },
+    "first_hadith_number": 2226,
+    "last_hadith_number": 2337,
+    "first_arabic_number": 2158,
+    "last_arabic_number": 2269
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "ar": "كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Dreams",
+      "fr": "Le livre des songes"
+    },
+    "first_hadith_number": 2338,
+    "last_hadith_number": 2362,
+    "first_arabic_number": 2270,
+    "last_arabic_number": 2294
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "ar": "كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Witnesses",
+      "fr": "Le livre des témoignages"
+    },
+    "first_hadith_number": 2363,
+    "last_hadith_number": 2372,
+    "first_arabic_number": 2295,
+    "last_arabic_number": 2303
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "ar": "كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters On Zuhd",
+      "fr": "Le livre du renoncement"
+    },
+    "first_hadith_number": 2373,
+    "last_hadith_number": 2484,
+    "first_arabic_number": 2304,
+    "last_arabic_number": 2414
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "ar": "كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+      "en": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+      "fr": "Le livre de la Résurrection, de l'attendrissement des cœurs et du scrupule"
+    },
+    "first_hadith_number": 2485,
+    "last_hadith_number": 2592,
+    "first_arabic_number": 2415,
+    "last_arabic_number": 2522
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "ar": "كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on the description of Paradise",
+      "fr": "Le livre de la description du Paradis"
+    },
+    "first_hadith_number": 2593,
+    "last_hadith_number": 2642,
+    "first_arabic_number": 2523,
+    "last_arabic_number": 2572
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "ar": "كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on the Description of Hellfire",
+      "fr": "Le livre de la description de l'Enfer"
+    },
+    "first_hadith_number": 2643,
+    "last_hadith_number": 2675,
+    "first_arabic_number": 2573,
+    "last_arabic_number": 2605
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "ar": "كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+      "en": "The Book on Faith",
+      "fr": "Le livre de la foi"
+    },
+    "first_hadith_number": 2676,
+    "last_hadith_number": 2714,
+    "first_arabic_number": 2606,
+    "last_arabic_number": 2644
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "ar": "كتاب العلم عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Knowledge",
+      "fr": "Le livre de la science"
+    },
+    "first_hadith_number": 2715,
+    "last_hadith_number": 2757,
+    "first_arabic_number": 2645,
+    "last_arabic_number": 2687
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "ar": "كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Seeking Permission",
+      "fr": "Le livre de la demande de permission et des convenances"
+    },
+    "first_hadith_number": 2758,
+    "last_hadith_number": 2805,
+    "first_arabic_number": 2688,
+    "last_arabic_number": 2735
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "ar": "كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Manners",
+      "fr": "Le livre des bonnes manières"
+    },
+    "first_hadith_number": 2806,
+    "last_hadith_number": 2940,
+    "first_arabic_number": 2736,
+    "last_arabic_number": 2858
+  },
+  {
+    "section_number": 44,
+    "name": {
+      "ar": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Parables",
+      "fr": "Le livre des paraboles"
+    },
+    "first_hadith_number": 2941,
+    "last_hadith_number": 2957,
+    "first_arabic_number": 2859,
+    "last_arabic_number": 2874
+  },
+  {
+    "section_number": 45,
+    "name": {
+      "ar": "كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on The Virtues of the Qur'an",
+      "fr": "Le livre des mérites du Coran"
+    },
+    "first_hadith_number": 2958,
+    "last_hadith_number": 3009,
+    "first_arabic_number": 2875,
+    "last_arabic_number": 2926
+  },
+  {
+    "section_number": 46,
+    "name": {
+      "ar": "كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Recitation",
+      "fr": "Le livre des lectures du Coran"
+    },
+    "first_hadith_number": 3010,
+    "last_hadith_number": 3032,
+    "first_arabic_number": 2927,
+    "last_arabic_number": 2949
+  },
+  {
+    "section_number": 47,
+    "name": {
+      "ar": "كتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Tafsir",
+      "fr": "Le livre de l'exégèse du Coran"
+    },
+    "first_hadith_number": 3033,
+    "last_hadith_number": 3453,
+    "first_arabic_number": 2950,
+    "last_arabic_number": 3369
+  },
+  {
+    "section_number": 48,
+    "name": {
+      "ar": "كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Supplication",
+      "fr": "Le livre des invocations"
+    },
+    "first_hadith_number": 3454,
+    "last_hadith_number": 3697,
+    "first_arabic_number": 3370,
+    "last_arabic_number": 3604.1
+  },
+  {
+    "section_number": 49,
+    "name": {
+      "ar": "كتاب المناقب عن رسول الله صلى الله عليه وسلم",
+      "en": "Chapters on Virtues",
+      "fr": "Le livre des mérites"
+    },
+    "first_hadith_number": 3698,
+    "last_hadith_number": 4053,
+    "first_arabic_number": 3605,
+    "last_arabic_number": 3956
+  }
+]

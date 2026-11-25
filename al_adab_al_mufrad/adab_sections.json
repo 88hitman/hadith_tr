@@ -1,0 +1,686 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "ar": "كتاب الْوَالِدَيْنِ",
+      "en": "Parents",
+      "fr": "Le livre des parents"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 46,
+    "first_arabic_number": 1,
+    "last_arabic_number": 46
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "ar": "كتاب صِلَةِ الرَّحِمِ",
+      "en": "Ties of Kinship",
+      "fr": "Le livre des liens de parenté"
+    },
+    "first_hadith_number": 47,
+    "last_hadith_number": 73,
+    "first_arabic_number": 47,
+    "last_arabic_number": 73
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "ar": "كتاب مَوَالِي",
+      "en": "Mawlas (Clients of Manumission)",
+      "fr": "Le livre des affranchis"
+    },
+    "first_hadith_number": 74,
+    "last_hadith_number": 75,
+    "first_arabic_number": 74,
+    "last_arabic_number": 75
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "ar": "كتاب عول البنات",
+      "en": "Looking after girls",
+      "fr": "Le livre de la prise en charge des filles"
+    },
+    "first_hadith_number": 76,
+    "last_hadith_number": 83,
+    "first_arabic_number": 76,
+    "last_arabic_number": 83
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "ar": "كتاب رعاية الأولاد",
+      "en": "Looking after children",
+      "fr": "Le livre du soin des enfants"
+    },
+    "first_hadith_number": 84,
+    "last_hadith_number": 100,
+    "first_arabic_number": 84,
+    "last_arabic_number": 100
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "ar": "كتاب الْجَارِ",
+      "en": "Neighbours",
+      "fr": "Le livre du voisin"
+    },
+    "first_hadith_number": 101,
+    "last_hadith_number": 128,
+    "first_arabic_number": 101,
+    "last_arabic_number": 128
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "ar": "كتاب الْكَرَمِ وَ يَتِيمٌ",
+      "en": "Generosity and Orphans",
+      "fr": "Le livre de la générosité et de l'orphelin"
+    },
+    "first_hadith_number": 129,
+    "last_hadith_number": 142,
+    "first_arabic_number": 129,
+    "last_arabic_number": 142
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "ar": "كتاب موت الأولاد",
+      "en": "Children's Death",
+      "fr": "Le livre de la mort des enfants"
+    },
+    "first_hadith_number": 143,
+    "last_hadith_number": 155,
+    "first_arabic_number": 143,
+    "last_arabic_number": 155
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "ar": "كتاب الملكة",
+      "en": "Being a master",
+      "fr": "Le livre du maître et de ses serviteurs"
+    },
+    "first_hadith_number": 156,
+    "last_hadith_number": 211,
+    "first_arabic_number": 156,
+    "last_arabic_number": 211
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "ar": "كتاب الرعاية",
+      "en": "Supervision",
+      "fr": "Le livre de la responsabilité"
+    },
+    "first_hadith_number": 212,
+    "last_hadith_number": 220,
+    "first_arabic_number": 212,
+    "last_arabic_number": 220
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "ar": "كتاب الْمَعْرُوفِ",
+      "en": "Good Conduct",
+      "fr": "Le livre du bien"
+    },
+    "first_hadith_number": 221,
+    "last_hadith_number": 237,
+    "first_arabic_number": 221,
+    "last_arabic_number": 237
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "ar": "كتاب الِانْبِسَاطِ إِلَى النَّاسِ",
+      "en": "Cheerfulness Towards People",
+      "fr": "Le livre de l'affabilité envers les gens"
+    },
+    "first_hadith_number": 238,
+    "last_hadith_number": 255,
+    "first_arabic_number": 238,
+    "last_arabic_number": 255
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "ar": "كتاب الْمَشُورَةِ",
+      "en": "Consultation",
+      "fr": "Le livre de la consultation"
+    },
+    "first_hadith_number": 256,
+    "last_hadith_number": 259,
+    "first_arabic_number": 256,
+    "last_arabic_number": 259
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "ar": "كتاب حسن الخلق",
+      "en": "Excellence in Character",
+      "fr": "Le livre du bon caractère"
+    },
+    "first_hadith_number": 260,
+    "last_hadith_number": 309,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "ar": "كتاب اللعن",
+      "en": "Cursing",
+      "fr": "Le livre de la malédiction"
+    },
+    "first_hadith_number": 310,
+    "last_hadith_number": 333,
+    "first_arabic_number": 309,
+    "last_arabic_number": 332
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "ar": "كتاب المدح",
+      "en": "Praise",
+      "fr": "Le livre de l'éloge"
+    },
+    "first_hadith_number": 334,
+    "last_hadith_number": 344,
+    "first_arabic_number": 333,
+    "last_arabic_number": 343
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "ar": "كتاب الزِّيَارَةِ",
+      "en": "Visitation",
+      "fr": "Le livre de la visite"
+    },
+    "first_hadith_number": 345,
+    "last_hadith_number": 354,
+    "first_arabic_number": 344,
+    "last_arabic_number": 352
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "ar": "كتاب الأكَابِرِ",
+      "en": "The Elderly",
+      "fr": "Le livre des aînés"
+    },
+    "first_hadith_number": 355,
+    "last_hadith_number": 363,
+    "first_arabic_number": 353,
+    "last_arabic_number": 361
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "ar": "كتاب الصَّغِيرِ",
+      "en": "Children",
+      "fr": "Le livre des petits"
+    },
+    "first_hadith_number": 364,
+    "last_hadith_number": 373,
+    "first_arabic_number": 362,
+    "last_arabic_number": 371
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "ar": "كتاب رَحْمَةِ",
+      "en": "Mercy",
+      "fr": "Le livre de la miséricorde"
+    },
+    "first_hadith_number": 374,
+    "last_hadith_number": 386,
+    "first_arabic_number": 372,
+    "last_arabic_number": 384
+  },
+  {
+    "section_number": 21,
+    "name": {
+      "ar": "كتاب ذات البين",
+      "en": "Social Behaviour",
+      "fr": "Le livre de la bonne entente"
+    },
+    "first_hadith_number": 387,
+    "last_hadith_number": 398,
+    "first_arabic_number": 385,
+    "last_arabic_number": 396
+  },
+  {
+    "section_number": 22,
+    "name": {
+      "ar": "كتاب الهجر",
+      "en": "Abandonment",
+      "fr": "Le livre de la rupture des relations"
+    },
+    "first_hadith_number": 399,
+    "last_hadith_number": 416,
+    "first_arabic_number": 397,
+    "last_arabic_number": 414
+  },
+  {
+    "section_number": 23,
+    "name": {
+      "ar": "كتاب الإشارة",
+      "en": "Advising",
+      "fr": "Le livre du conseil"
+    },
+    "first_hadith_number": 417,
+    "last_hadith_number": 420,
+    "first_arabic_number": 415,
+    "last_arabic_number": 418
+  },
+  {
+    "section_number": 24,
+    "name": {
+      "ar": "كتاب السِّبَابِ",
+      "en": "Disparaging",
+      "fr": "Le livre de l'insulte"
+    },
+    "first_hadith_number": 421,
+    "last_hadith_number": 443,
+    "first_arabic_number": 419,
+    "last_arabic_number": 441
+  },
+  {
+    "section_number": 25,
+    "name": {
+      "ar": "كتاب السَّرَفِ فِي  الْبِنَاءِ",
+      "en": "Extravagance in Building",
+      "fr": "Le livre de l'excès dans la construction"
+    },
+    "first_hadith_number": 444,
+    "last_hadith_number": 463,
+    "first_arabic_number": 442,
+    "last_arabic_number": 461
+  },
+  {
+    "section_number": 26,
+    "name": {
+      "ar": "كتاب الرِّفْقِ",
+      "en": "Compassion",
+      "fr": "Le livre de la douceur"
+    },
+    "first_hadith_number": 464,
+    "last_hadith_number": 476,
+    "first_arabic_number": 462,
+    "last_arabic_number": 474
+  },
+  {
+    "section_number": 27,
+    "name": {
+      "ar": "كتاب الاعتناء بالدنيا",
+      "en": "Attending to this world",
+      "fr": "Le livre du souci de ce monde"
+    },
+    "first_hadith_number": 477,
+    "last_hadith_number": 484,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 28,
+    "name": {
+      "ar": "كتاب الظُّلْم",
+      "en": "Injustice",
+      "fr": "Le livre de l'injustice"
+    },
+    "first_hadith_number": 485,
+    "last_hadith_number": 492,
+    "first_arabic_number": 483,
+    "last_arabic_number": 490
+  },
+  {
+    "section_number": 29,
+    "name": {
+      "ar": "كتاب عيادة المرضى",
+      "en": "Visiting the Ill",
+      "fr": "Le livre de la visite aux malades"
+    },
+    "first_hadith_number": 493,
+    "last_hadith_number": 539,
+    "first_arabic_number": 491,
+    "last_arabic_number": 537
+  },
+  {
+    "section_number": 30,
+    "name": {
+      "ar": "كتاب التصرف العام",
+      "en": "General Behavior",
+      "fr": "Le livre de la conduite générale"
+    },
+    "first_hadith_number": 540,
+    "last_hadith_number": 605,
+    "first_arabic_number": 538,
+    "last_arabic_number": 603
+  },
+  {
+    "section_number": 31,
+    "name": {
+      "ar": "كتاب الدعاء",
+      "en": "Supplication",
+      "fr": "Le livre de l'invocation"
+    },
+    "first_hadith_number": 606,
+    "last_hadith_number": 740,
+    "first_arabic_number": 604,
+    "last_arabic_number": 738
+  },
+  {
+    "section_number": 32,
+    "name": {
+      "ar": "كتاب الضيف والنفقة",
+      "en": "Guests and Spending",
+      "fr": "Le livre de l'hôte et de la dépense"
+    },
+    "first_hadith_number": 741,
+    "last_hadith_number": 755,
+    "first_arabic_number": 739,
+    "last_arabic_number": 753
+  },
+  {
+    "section_number": 33,
+    "name": {
+      "ar": "كتاب الأقوال",
+      "en": "Sayings",
+      "fr": "Le livre des paroles"
+    },
+    "first_hadith_number": 756,
+    "last_hadith_number": 812,
+    "first_arabic_number": 754,
+    "last_arabic_number": 810
+  },
+  {
+    "section_number": 34,
+    "name": {
+      "ar": "كتاب الأسْمَاءِ",
+      "en": "Names",
+      "fr": "Le livre des noms"
+    },
+    "first_hadith_number": 813,
+    "last_hadith_number": 843,
+    "first_arabic_number": 811,
+    "last_arabic_number": 841
+  },
+  {
+    "section_number": 35,
+    "name": {
+      "ar": "كتاب  الكُنْيَةِ",
+      "en": "Kunyas",
+      "fr": "Le livre de la kunya"
+    },
+    "first_hadith_number": 844,
+    "last_hadith_number": 857,
+    "first_arabic_number": 842,
+    "last_arabic_number": 855
+  },
+  {
+    "section_number": 36,
+    "name": {
+      "ar": "كتاب الشِّعْرِ",
+      "en": "Poetry",
+      "fr": "Le livre de la poésie"
+    },
+    "first_hadith_number": 858,
+    "last_hadith_number": 876,
+    "first_arabic_number": 856,
+    "last_arabic_number": 874
+  },
+  {
+    "section_number": 37,
+    "name": {
+      "ar": "كتاب الْكَلامِ",
+      "en": "Words",
+      "fr": "Le livre de la parole"
+    },
+    "first_hadith_number": 877,
+    "last_hadith_number": 889,
+    "first_arabic_number": 875,
+    "last_arabic_number": 887
+  },
+  {
+    "section_number": 38,
+    "name": {
+      "ar": "كتاب عاقبة الأمور",
+      "en": "Consequences",
+      "fr": "Le livre de l'issue des choses"
+    },
+    "first_hadith_number": 890,
+    "last_hadith_number": 908,
+    "first_arabic_number": 888,
+    "last_arabic_number": 906
+  },
+  {
+    "section_number": 39,
+    "name": {
+      "ar": "كتاب الطيرة",
+      "en": "Omens",
+      "fr": "Le livre du mauvais présage"
+    },
+    "first_hadith_number": 909,
+    "last_hadith_number": 920,
+    "first_arabic_number": 907,
+    "last_arabic_number": 918
+  },
+  {
+    "section_number": 40,
+    "name": {
+      "ar": "كتاب الْعُطَاسَ والتثاؤب",
+      "en": "Sneezing and Yawning",
+      "fr": "Le livre de l'éternuement et du bâillement"
+    },
+    "first_hadith_number": 921,
+    "last_hadith_number": 953,
+    "first_arabic_number": 919,
+    "last_arabic_number": 951
+  },
+  {
+    "section_number": 41,
+    "name": {
+      "ar": "كتاب الحركات",
+      "en": "Gestures",
+      "fr": "Le livre des gestes"
+    },
+    "first_hadith_number": 954,
+    "last_hadith_number": 966,
+    "first_arabic_number": 952,
+    "last_arabic_number": 964
+  },
+  {
+    "section_number": 42,
+    "name": {
+      "ar": "كتاب السَّلامِ",
+      "en": "Greetings",
+      "fr": "Le livre de la salutation"
+    },
+    "first_hadith_number": 967,
+    "last_hadith_number": 1053,
+    "first_arabic_number": 965,
+    "last_arabic_number": 1050
+  },
+  {
+    "section_number": 43,
+    "name": {
+      "ar": "كتاب الاسْتِئْذَانُ",
+      "en": "Asking Permission",
+      "fr": "Le livre de la demande de permission"
+    },
+    "first_hadith_number": 1054,
+    "last_hadith_number": 1103,
+    "first_arabic_number": 1051,
+    "last_arabic_number": 1100
+  },
+  {
+    "section_number": 44,
+    "name": {
+      "ar": "كتاب أَهْلِ الْكِتَابِ",
+      "en": "The People of the Book",
+      "fr": "Le livre des gens du Livre"
+    },
+    "first_hadith_number": 1104,
+    "last_hadith_number": 1119,
+    "first_arabic_number": 1101,
+    "last_arabic_number": 1116
+  },
+  {
+    "section_number": 45,
+    "name": {
+      "ar": "كتاب الرَّسَائِلِ‏",
+      "en": "Letters",
+      "fr": "Le livre des lettres"
+    },
+    "first_hadith_number": 1120,
+    "last_hadith_number": 1138,
+    "first_arabic_number": 1117,
+    "last_arabic_number": 1135
+  },
+  {
+    "section_number": 46,
+    "name": {
+      "ar": "كتاب الْمَجَالِسِ",
+      "en": "Gatherings",
+      "fr": "Le livre des assemblées"
+    },
+    "first_hadith_number": 1139,
+    "last_hadith_number": 1155,
+    "first_arabic_number": 1136,
+    "last_arabic_number": 1152
+  },
+  {
+    "section_number": 47,
+    "name": {
+      "ar": "كتاب تعامل الناس",
+      "en": "Behaviour with people",
+      "fr": "Le livre des relations avec les gens"
+    },
+    "first_hadith_number": 1156,
+    "last_hadith_number": 1177,
+    "first_arabic_number": 1153,
+    "last_arabic_number": 1174
+  },
+  {
+    "section_number": 48,
+    "name": {
+      "ar": "باب الجلوس والاستلقاء",
+      "en": "Sitting and lying down",
+      "fr": "Le chapitre de la position assise et allongée"
+    },
+    "first_hadith_number": 1178,
+    "last_hadith_number": 1201,
+    "first_arabic_number": 1175,
+    "last_arabic_number": 1198
+  },
+  {
+    "section_number": 49,
+    "name": {
+      "ar": "كتاب الصباح والمساء",
+      "en": "Mornings and evenings",
+      "fr": "Le livre du matin et du soir"
+    },
+    "first_hadith_number": 1202,
+    "last_hadith_number": 1207,
+    "first_arabic_number": 1199,
+    "last_arabic_number": 1204
+  },
+  {
+    "section_number": 50,
+    "name": {
+      "ar": "كتاب النوم والمبيت",
+      "en": "Sleep and night lodging",
+      "fr": "Le livre du sommeil et de la nuit"
+    },
+    "first_hadith_number": 1208,
+    "last_hadith_number": 1234,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 51,
+    "name": {
+      "ar": "كتاب الْبَهَائِمِ",
+      "en": "Animals",
+      "fr": "Le livre des animaux"
+    },
+    "first_hadith_number": 1235,
+    "last_hadith_number": 1240,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 52,
+    "name": {
+      "ar": "كتاب الْقَائِلَةِ",
+      "en": "Midday Naps",
+      "fr": "Le livre de la sieste"
+    },
+    "first_hadith_number": 1241,
+    "last_hadith_number": 1246,
+    "first_arabic_number": 1238,
+    "last_arabic_number": 1243
+  },
+  {
+    "section_number": 53,
+    "name": {
+      "ar": "كتاب الْخِتَانِ",
+      "en": "Circumcision",
+      "fr": "Le livre de la circoncision"
+    },
+    "first_hadith_number": 1247,
+    "last_hadith_number": 1261,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 54,
+    "name": {
+      "ar": "كتاب القمار ونحوه",
+      "en": "Betting and similar pastimes",
+      "fr": "Le livre des jeux de hasard et de ce qui leur ressemble"
+    },
+    "first_hadith_number": 1262,
+    "last_hadith_number": 1284,
+    "first_arabic_number": 1259,
+    "last_arabic_number": 1281
+  },
+  {
+    "section_number": 55,
+    "name": {
+      "ar": "كتاب المعرفة",
+      "en": "Recognition",
+      "fr": "Le livre de la connaissance mutuelle"
+    },
+    "first_hadith_number": 1285,
+    "last_hadith_number": 1307,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 56,
+    "name": {
+      "ar": "كتاب الفضول والجفاء",
+      "en": "Meddling and Harshness",
+      "fr": "Le livre de l'indiscrétion et de la dureté"
+    },
+    "first_hadith_number": 1308,
+    "last_hadith_number": 1319,
+    "first_arabic_number": null,
+    "last_arabic_number": null
+  },
+  {
+    "section_number": 57,
+    "name": {
+      "ar": "كتاب الْغَضَبِ",
+      "en": "Anger",
+      "fr": "Le livre de la colère"
+    },
+    "first_hadith_number": 1320,
+    "last_hadith_number": 1326,
+    "first_arabic_number": 1317,
+    "last_arabic_number": 1322
+  }
+]

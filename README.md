@@ -26,6 +26,14 @@ sahih_muslim/
 ...
 README.md
 LICENSE
+````
+
+Collections: sahih_bukhari, sahih_muslim, sunan_abu_dawud, sunan_an_nasai, sunan_ibn_majah,
+nawawi_40, qudsi_40, dehlawi_40, riyad_as_salihin, shamail_muhammadiyah, hisn_al_muslim, muwatta_malik, al_adab_al_mufrad, bulugh_al_maram, jami_at_tirmidhi.
+
+````
+README.md
+LICENSE
 
 
 ````

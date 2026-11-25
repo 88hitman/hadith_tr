@@ -1,0 +1,242 @@
+[
+  {
+    "section_number": 1,
+    "name": {
+      "ar": "كتاب المقدمات",
+      "en": "The Book of Miscellany",
+      "fr": "Introduction"
+    },
+    "first_hadith_number": 1,
+    "last_hadith_number": 679,
+    "first_arabic_number": 1,
+    "last_arabic_number": 679
+  },
+  {
+    "section_number": 2,
+    "name": {
+      "ar": "كتاب الأدب",
+      "en": "The Book of Good Manners",
+      "fr": "Le livre des bonnes manières"
+    },
+    "first_hadith_number": 680,
+    "last_hadith_number": 726,
+    "first_arabic_number": 680,
+    "last_arabic_number": 726
+  },
+  {
+    "section_number": 3,
+    "name": {
+      "ar": "كتـــــاب أدب الطعام",
+      "en": "The Book About the Etiquette of Eating",
+      "fr": "Le livre des règles du repas"
+    },
+    "first_hadith_number": 727,
+    "last_hadith_number": 777,
+    "first_arabic_number": 727,
+    "last_arabic_number": 777
+  },
+  {
+    "section_number": 4,
+    "name": {
+      "ar": "كتــــاب اللباس",
+      "en": "The Book of Dress",
+      "fr": "Le livre du vêtement"
+    },
+    "first_hadith_number": 778,
+    "last_hadith_number": 812,
+    "first_arabic_number": 778,
+    "last_arabic_number": 812
+  },
+  {
+    "section_number": 5,
+    "name": {
+      "ar": "كتاب آداب النوم",
+      "en": "The Book of the Etiquette of Sleeping, Lying and Sitting etc",
+      "fr": "Le livre des règles du sommeil, de la position allongée et de la position assise"
+    },
+    "first_hadith_number": 813,
+    "last_hadith_number": 843,
+    "first_arabic_number": 813,
+    "last_arabic_number": 843
+  },
+  {
+    "section_number": 6,
+    "name": {
+      "ar": "كتاب السلام",
+      "en": "The Book of Greetings",
+      "fr": "Le livre des salutations"
+    },
+    "first_hadith_number": 844,
+    "last_hadith_number": 893,
+    "first_arabic_number": 844,
+    "last_arabic_number": 893
+  },
+  {
+    "section_number": 7,
+    "name": {
+      "ar": "كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه",
+      "en": "The Book of Visiting the Sick",
+      "fr": "Le livre de la visite aux malades"
+    },
+    "first_hadith_number": 894,
+    "last_hadith_number": 955,
+    "first_arabic_number": 894,
+    "last_arabic_number": 955
+  },
+  {
+    "section_number": 8,
+    "name": {
+      "ar": "كتاب آداب السفر",
+      "en": "The Book of Etiquette of Traveling",
+      "fr": "Le livre des règles du voyage"
+    },
+    "first_hadith_number": 956,
+    "last_hadith_number": 990,
+    "first_arabic_number": 956,
+    "last_arabic_number": 990
+  },
+  {
+    "section_number": 9,
+    "name": {
+      "ar": "كتاب الفضائل",
+      "en": "The Book of Virtues",
+      "fr": "Le livre des mérites"
+    },
+    "first_hadith_number": 991,
+    "last_hadith_number": 1267,
+    "first_arabic_number": 991,
+    "last_arabic_number": 1267
+  },
+  {
+    "section_number": 10,
+    "name": {
+      "ar": "كتاب الاعتكاف",
+      "en": "The Book of I'tikaf",
+      "fr": "Le livre de la retraite spirituelle (i'tikaf)"
+    },
+    "first_hadith_number": 1268,
+    "last_hadith_number": 1270,
+    "first_arabic_number": 1268,
+    "last_arabic_number": 1270
+  },
+  {
+    "section_number": 11,
+    "name": {
+      "ar": "كتاب الحج",
+      "en": "The Book of Hajj",
+      "fr": "Le livre du pèlerinage"
+    },
+    "first_hadith_number": 1271,
+    "last_hadith_number": 1284,
+    "first_arabic_number": 1271,
+    "last_arabic_number": 1284
+  },
+  {
+    "section_number": 12,
+    "name": {
+      "ar": "كتاب الجهاد",
+      "en": "The Book of Jihad",
+      "fr": "Le livre du djihad"
+    },
+    "first_hadith_number": 1285,
+    "last_hadith_number": 1375,
+    "first_arabic_number": 1285,
+    "last_arabic_number": 1375
+  },
+  {
+    "section_number": 13,
+    "name": {
+      "ar": "كتاب العلم",
+      "en": "The Book of Knowledge",
+      "fr": "Le livre de la science"
+    },
+    "first_hadith_number": 1376,
+    "last_hadith_number": 1392,
+    "first_arabic_number": 1376,
+    "last_arabic_number": 1392
+  },
+  {
+    "section_number": 14,
+    "name": {
+      "ar": "كتاب حمد الله تعالى وشكره",
+      "en": "The Book of Praise and Gratitude to Allah",
+      "fr": "Le livre de la louange et de la gratitude envers Allah"
+    },
+    "first_hadith_number": 1393,
+    "last_hadith_number": 1396,
+    "first_arabic_number": 1393,
+    "last_arabic_number": 1396
+  },
+  {
+    "section_number": 15,
+    "name": {
+      "ar": "كتاب الصلاة على رسول الله صلى الله عليه وسلم",
+      "en": "The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger",
+      "fr": "Le livre de la prière sur le Messager d'Allah (ﷺ)"
+    },
+    "first_hadith_number": 1397,
+    "last_hadith_number": 1407,
+    "first_arabic_number": 1397,
+    "last_arabic_number": 1407
+  },
+  {
+    "section_number": 16,
+    "name": {
+      "ar": "كتاب الأذكار",
+      "en": "The Book of the Remembrance of Allah",
+      "fr": "Le livre de l'évocation d'Allah"
+    },
+    "first_hadith_number": 1408,
+    "last_hadith_number": 1464,
+    "first_arabic_number": 1408,
+    "last_arabic_number": 1464
+  },
+  {
+    "section_number": 17,
+    "name": {
+      "ar": "كتاب الدعوات",
+      "en": "The Book of Du'a (Supplications)",
+      "fr": "Le livre des invocations"
+    },
+    "first_hadith_number": 1465,
+    "last_hadith_number": 1510,
+    "first_arabic_number": 1465,
+    "last_arabic_number": 1510
+  },
+  {
+    "section_number": 18,
+    "name": {
+      "ar": "كتاب الأمور المنهي عنها",
+      "en": "The Book of the Prohibited actions",
+      "fr": "Le livre des actes interdits"
+    },
+    "first_hadith_number": 1511,
+    "last_hadith_number": 1807,
+    "first_arabic_number": 1511,
+    "last_arabic_number": 1807
+  },
+  {
+    "section_number": 19,
+    "name": {
+      "ar": "كتاب المنثورات والملح",
+      "en": "The Book of Miscellaneous ahadith of Significant Values",
+      "fr": "Le livre des hadiths divers d'une grande valeur"
+    },
+    "first_hadith_number": 1808,
+    "last_hadith_number": 1868,
+    "first_arabic_number": 1808,
+    "last_arabic_number": 1868
+  },
+  {
+    "section_number": 20,
+    "name": {
+      "ar": "كتاب الاستغفار",
+      "en": "The Book of Forgiveness",
+      "fr": "Le livre de la demande de pardon"
+    },
+    "first_hadith_number": 1869,
+    "last_hadith_number": 1896,
+    "first_arabic_number": 1869,
+    "last_arabic_number": 1896
+  }
+]

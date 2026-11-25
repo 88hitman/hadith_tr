@@ -1,9 +1,9 @@
 {
   "collection": "Sahih Muslim",
   "languages": ["ar", "en", "fr"],
-  "version": 1,
-  "last_updated": "2025-07-12T13:38:35.407Z",
-  "hadiths_count": 7307,
+  "version": 2,
+  "last_updated": "2026-11-23T14:16:34Z",
+  "hadiths_count": 7379,
   "last_hadith_number": 7563,
   "resources": {
     "hadiths": "sahih_muslim_hadiths.jsonl",
