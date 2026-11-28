@@ -1,8 +1,8 @@
 {
   "collection": "Sahih Bukhari",
   "languages": ["ar", "en", "fr"],
-  "version": 4,
-  "last_updated": "2026-11-23T14:16:34Z",
+  "version": 5,
+  "last_updated": "2026-11-28T09:06:07Z",
   "hadiths_count": 7589,
   "last_hadith_number": 7563,
   "resources": {
